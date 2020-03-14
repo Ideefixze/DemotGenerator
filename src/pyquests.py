@@ -35,11 +35,16 @@ import os
 import praw as p
 import requests 
 from tqdm import tqdm
+import textloader as tl
+import random
+import time
 
 # Imports the Google Cloud client library
 from google.cloud import vision
 from google.cloud.vision import types
 
+
+img_links = list()
 
 def Labeling():
     # Instantiates a client
@@ -64,9 +69,14 @@ def Labeling():
 
 
 def ZrobDemota():
+
+    demot = tl.GetRandomText()
+    imglink = GetRandomLink()
+    if('imgur' in imglink):
+        return
     URL='http://www.demotmaker.com.pl/zaawansowane.php'
-    PARAMS={'action':'lang=pl','obrazek':'2','tekst':'nowydemot','kolor1':'Biały',
-    'kolor2':'Biały','rozmiar1':'36','rozmiar2':'16','opis':'test','plik':'','link':'https://i.redd.it/o5ni0epffwl41.jpg',
+    PARAMS={'action':'lang=pl','obrazek':'2','tekst':demot[0],'kolor1':'Biały',
+    'kolor2':'Biały','rozmiar1':'36','rozmiar2':'16','opis':demot[1],'plik':'','link': imglink,
     'obrobka':'brak','obrot':'brak','kolorobr':'Czarne','rozmiarobr':'2','kolortla':'Czarne'}
     r = requests.post(url = URL, data=PARAMS, files = PARAMS)
     #print(r.request.body)
@@ -75,15 +85,22 @@ def ZrobDemota():
     #print(r.text)
     start = r.text.find("obrazki/")
     end = r.text.find("\"",start)
-    print(start)
-    print(end)
+    #print(start)
+    #print(end)
 
     url_part=r.text[start:end]
 
     img_response = requests.get("http://demotmaker.com.pl/"+url_part, stream=True)
-    with open("D:\\pyquests\\src\\dls\\demot.jpg", "wb") as handle:
+    id = 0
+    while(os.path.isfile("D:\\pyquests\\src\\dls\\demot"+str(id)+".jpg")):
+        id=id+1
+    with open("D:\\pyquests\\src\\dls\\demot"+str(id)+".jpg", "wb") as handle:
         for data in tqdm(img_response.iter_content()):
             handle.write(data)
+        
+        print("Created demot: "+str(id)+" with img: "+imglink+" as "+str(demot)) 
+
+    time.sleep(1.5)
     
 def TEST():
     URL='http://ptsv2.com/t/Joseph/post'
@@ -100,14 +117,21 @@ def RedditTitles():
     reddit = p.Reddit(client_id='yd5bYoeRUp7Gfg',client_secret='WWLeGwXepDBVvFYucp6Y4x6hMO8',user_agent='myagent')
     print(reddit.read_only)
     
-    for submission in reddit.subreddit('hmmm').hot(limit=50):
+    for submission in reddit.subreddit('hmmm').top(limit=2000):
         
         url = submission.url
-        print(submission.url)
+        #print(submission.url)
+        img_links.append(submission.url)
         #response = requests.get(url, stream=True)
         #SaveToFile(str(submission),response)
-        
+
+def GetRandomLink():
+    r = img_links[random.randint(0,len(img_links)-1)]
+    return r
+
+RedditTitles()
 #TEST()
-ZrobDemota()
+for i in range(1, 100):
+    ZrobDemota()
 
 
