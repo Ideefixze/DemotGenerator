@@ -8,6 +8,7 @@ current_exe_dir = os.path.dirname(sys.executable)
 
 texts = list()
 
+#Load predefined texts from a file as a lists of touples (title, desc)
 def LoadTexts(filename):
 
     #determining whether we are running from .py or .exe
@@ -29,8 +30,6 @@ def LoadTexts(filename):
 
 def GetRandomText():
     r = texts[random.randint(0,len(texts)-1)]
-    #print(r)
     return r
 
 LoadTexts("texts.txt")
-#print(GetRandomText())
