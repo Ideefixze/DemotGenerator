@@ -66,7 +66,6 @@ def GetRandomLink():
     r = img_links[random.randint(0,len(img_links)-1)]
     return r
 
-
 print("How many demots you want to generate?")
 howmany = int(input())
 #Generates demots
@@ -74,6 +73,6 @@ print("All demots will be saved in "+current_dir+"/dls/")
 RedditTitles(min(howmany*50,4000))
 for i in range(1, howmany):
     GenerateDemot()
-print("Operation completed!")
+print("Operation has been completed!")
 
 
