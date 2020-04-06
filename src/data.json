@@ -1,0 +1,5962 @@
+{
+    "hits_count": 5408,
+    "hits": [
+        {
+            "highlights": null,
+            "id": "NTI0OTY4",
+            "slug": "dziela-juliusza-slowackiego-t-1-wiersze-drobne",
+            "title": "Dzieła Juliusza Słowackiego. T. 1, Wiersze drobne",
+            "alternative": null,
+            "alternative_hidden": null,
+            "uniform_title": null,
+            "uniform_title_aut": null,
+            "uniform_title_add": null,
+            "key_title": null,
+            "additional_title": null,
+            "former_title": null,
+            "series_title": null,
+            "translation_of": null,
+            "translated_as": null,
+            "creator": "Słowacki, Juliusz (1809-1849)",
+            "creator_name": "Słowacki Juliusz",
+            "creator_date": "1809-1849",
+            "creator_apposition": null,
+            "creator_corp": null,
+            "contributor": [
+                "Gubrynowicz, Bronisław (1870-1933). Wyd."
+            ],
+            "contributor_corp": null,
+            "date": "1909-01-01T01:48:00",
+            "date_descriptive": "1909",
+            "country": "Ukraina",
+            "publisher": "W. Gubrynowicz",
+            "publish_place": "Lwów",
+            "publisher_number": null,
+            "imprint": "Lwów : W. Gubrynowicz, 1909 (Kraków : W. L. Anczyc i Sp.)",
+            "frequency": null,
+            "edition": [
+                "1 krytyczne wyd. zbior."
+            ],
+            "series": null,
+            "copublished": null,
+            "physical_description": [
+                "[4], VIII, 408 s., [6] k. tabl. ; 22 cm"
+            ],
+            "file_characteristics": null,
+            "categories": [
+                "books"
+            ],
+            "metatypes": [
+                "poezja polska"
+            ],
+            "udc": null,
+            "material_type": "a",
+            "bibliographic_level": "m",
+            "isbn": null,
+            "issn": null,
+            "ismn": null,
+            "call_no": [
+                "II 68.377 A"
+            ],
+            "oclc_no": null,
+            "national_bibliography": null,
+            "academica_id": 524968,
+            "year_of_edition": null,
+            "tome_of_edition": null,
+            "number_of_edition": null,
+            "release": null,
+            "press_title": "Dzieła Juliusza Słowackiego. T. 1, Wiersze drobne",
+            "languages": [
+                "polski"
+            ],
+            "sources": [
+                "Biblioteka Narodowa"
+            ],
+            "projects": [],
+            "subject": null,
+            "keywords": null,
+            "resources": [
+                {
+                    "url": "https://polona.pl/metaexport?uid=524968&mapping=polona_src_out&lang=pl",
+                    "mime": "application/xml",
+                    "hidden": false
+                }
+            ],
+            "rights": [
+                "Domena Publiczna. Wolno zwielokrotniać, zmieniać i rozpowszechniać oraz wykonywać utwór, nawet w celach komercyjnych, bez konieczności pytania o zgodę. Wykorzystując utwór należy pamiętać o poszanowaniu autorskich praw osobistych Twórcy."
+            ],
+            "time_period_of_creation": null,
+            "form_and_type": null,
+            "discipline_and_approach": null,
+            "subject_time": null,
+            "content_of_uid": null,
+            "content_of": null,
+            "cultural_area": null,
+            "audience_group": null,
+            "is_public": true,
+            "digital_copy_by": [
+                "Zakład Reprografii i Digitalizacji Biblioteki Narodowej"
+            ],
+            "link_to_original_content": null,
+            "main_scan": {
+                "id": 524117,
+                "dzi": {
+                    "tiles_prefix": "https://zas.bn.org.pl/image/524968/?DeepZoom=524117.tif_files",
+                    "manifest_url": "https://zas.bn.org.pl/image/524968/?DeepZoom=524117.tif.dzi"
+                },
+                "thumbnails": [
+                    {
+                        "dimensions": {
+                            "width": 150,
+                            "height": 123
+                        },
+                        "url": "https://zas.bn.org.pl/thumbnail/524117?uid=524968"
+                    },
+                    {
+                        "dimensions": {
+                            "width": 305,
+                            "height": 250
+                        },
+                        "url": "https://zas.bn.org.pl/thumbnail/524117?uid=524968&type=large"
+                    },
+                    {
+                        "dimensions": {
+                            "width": 976,
+                            "height": 800
+                        },
+                        "url": "https://zas.bn.org.pl/thumbnail/524117?uid=524968&type=huge"
+                    }
+                ],
+                "pagination_info": {
+                    "scan_name": "[]",
+                    "interesting": false,
+                    "scan_structure": "X",
+                    "scan_functions": [
+                        "strona tytułowa"
+                    ]
+                },
+                "resources": [
+                    {
+                        "downloadable": true,
+                        "url": "https://polona.pl/archive?uid=524968&cid=524117&name=download_fullJPG",
+                        "mime": "image/jpeg",
+                        "hidden": false
+                    }
+                ],
+                "rotation": 0,
+                "aggregations": {
+                    "user": null,
+                    "global": null
+                }
+            },
+            "links": {
+                "academica_url": "https://academica.edu.pl/reading/readSingle?uid=524968",
+                "item_url": "https://polona.pl/api/entities/NTI0OTY4/",
+                "catalogue_url": null
+            },
+            "has_text_content": false,
+            "fragments": [],
+            "aggregations": {
+                "user": null,
+                "global": {
+                    "bookmarks_count": 1,
+                    "views_count": 0,
+                    "favorites_count": 6,
+                    "collections_containing_count": 1,
+                    "notes_count": 9
+                }
+            }
+        }
+    ],
+    "aggregations": {
+        "facets": {
+            "keyword": [
+                {
+                    "count": 2605,
+                    "value": "Teatr im. Juliusza Słowackiego (Kraków)"
+                },
+                {
+                    "count": 2585,
+                    "value": "Kraków (woj. małopolskie)"
+                },
+                {
+                    "count": 1340,
+                    "value": "Słowacki, Juliusz"
+                },
+                {
+                    "count": 284,
+                    "value": "Teatr polski"
+                },
+                {
+                    "count": 209,
+                    "value": "Zapolska, Gabriela"
+                },
+                {
+                    "count": 180,
+                    "value": "Inscenizacja"
+                },
+                {
+                    "count": 161,
+                    "value": "Poeci polscy"
+                },
+                {
+                    "count": 151,
+                    "value": "Aktorzy polscy"
+                },
+                {
+                    "count": 150,
+                    "value": "Literatura polska"
+                },
+                {
+                    "count": 147,
+                    "value": "Wyspiański, Stanisław"
+                },
+                {
+                    "count": 120,
+                    "value": "Fredro, Aleksander"
+                },
+                {
+                    "count": 117,
+                    "value": "Mickiewicz, Adam"
+                },
+                {
+                    "count": 110,
+                    "value": "Shakespeare, William"
+                },
+                {
+                    "count": 100,
+                    "value": "Teatr"
+                },
+                {
+                    "count": 95,
+                    "value": "Bałucki, Michał"
+                },
+                {
+                    "count": 93,
+                    "value": "Literatura słowacka"
+                },
+                {
+                    "count": 88,
+                    "value": "Warszawa"
+                },
+                {
+                    "count": 82,
+                    "value": "Język słowacki"
+                },
+                {
+                    "count": 74,
+                    "value": "Polska"
+                },
+                {
+                    "count": 72,
+                    "value": "Teatr Polski (Warszawa)"
+                },
+                {
+                    "count": 69,
+                    "value": "Rydel, Lucjan"
+                },
+                {
+                    "count": 67,
+                    "value": "Opera (przedstawienie)"
+                },
+                {
+                    "count": 61,
+                    "value": "Anczyc, Władysław Ludwik"
+                },
+                {
+                    "count": 59,
+                    "value": "Krasiński, Zygmunt"
+                },
+                {
+                    "count": 57,
+                    "value": "Pisarze polscy"
+                },
+                {
+                    "count": 56,
+                    "value": "Słowacja."
+                },
+                {
+                    "count": 54,
+                    "value": "Tematy i motywy"
+                },
+                {
+                    "count": 53,
+                    "value": "Moniuszko, Stanisław"
+                },
+                {
+                    "count": 52,
+                    "value": "Molier"
+                },
+                {
+                    "count": 51,
+                    "value": "Słowacja"
+                },
+                {
+                    "count": 47,
+                    "value": "Język polski"
+                },
+                {
+                    "count": 46,
+                    "value": "Ibsen, Henrik"
+                },
+                {
+                    "count": 44,
+                    "value": "Rostand, Edmond"
+                },
+                {
+                    "count": 43,
+                    "value": "Verdi, Giuseppe"
+                },
+                {
+                    "count": 39,
+                    "value": "Tarasiewicz, Michał"
+                },
+                {
+                    "count": 35,
+                    "value": "Sardou, Victorien"
+                },
+                {
+                    "count": 33,
+                    "value": "Sienkiewicz, Henryk"
+                },
+                {
+                    "count": 32,
+                    "value": "Calderón de la Barca, Pedro"
+                },
+                {
+                    "count": 32,
+                    "value": "Jarosław (woj. podkarpackie)"
+                },
+                {
+                    "count": 31,
+                    "value": "Modrzejewska, Helena"
+                },
+                {
+                    "count": 31,
+                    "value": "Poezja polska"
+                },
+                {
+                    "count": 31,
+                    "value": "Schiller, Friedrich"
+                },
+                {
+                    "count": 31,
+                    "value": "Shaw, George Bernard"
+                },
+                {
+                    "count": 30,
+                    "value": "Mesjanizm"
+                },
+                {
+                    "count": 29,
+                    "value": "Gounod, Charles"
+                },
+                {
+                    "count": 29,
+                    "value": "Opera"
+                },
+                {
+                    "count": 29,
+                    "value": "Schönthan, Franz von"
+                },
+                {
+                    "count": 28,
+                    "value": "Bliziński, Józef"
+                },
+                {
+                    "count": 27,
+                    "value": "Kobieta"
+                },
+                {
+                    "count": 27,
+                    "value": "Polacy za granicą"
+                },
+                {
+                    "count": 27,
+                    "value": "Solski, Ludwik"
+                },
+                {
+                    "count": 26,
+                    "value": "Gorki, Maksim"
+                },
+                {
+                    "count": 26,
+                    "value": "Język czeski"
+                },
+                {
+                    "count": 26,
+                    "value": "Puccini, Giacomo"
+                },
+                {
+                    "count": 26,
+                    "value": "Ruszkowski, Ryszard"
+                },
+                {
+                    "count": 25,
+                    "value": "Hennequin, Maurice"
+                },
+                {
+                    "count": 25,
+                    "value": "Niccodemi, Dario"
+                },
+                {
+                    "count": 25,
+                    "value": "Romantyzm"
+                },
+                {
+                    "count": 24,
+                    "value": "Caillavet, Gaston-Arman de"
+                },
+                {
+                    "count": 24,
+                    "value": "Flers, Robert de"
+                },
+                {
+                    "count": 24,
+                    "value": "Kamiński, Kazimierz"
+                },
+                {
+                    "count": 24,
+                    "value": "Naród"
+                },
+                {
+                    "count": 24,
+                    "value": "Przekłady polskie"
+                },
+                {
+                    "count": 24,
+                    "value": "Przybyszewski, Stanisław"
+                },
+                {
+                    "count": 23,
+                    "value": "Arène, Emmanuel"
+                },
+                {
+                    "count": 23,
+                    "value": "Gogol, Nikołaj"
+                },
+                {
+                    "count": 23,
+                    "value": "Literatura"
+                },
+                {
+                    "count": 23,
+                    "value": "Piłka nożna"
+                },
+                {
+                    "count": 23,
+                    "value": "Przybylski, Zygmunt"
+                },
+                {
+                    "count": 23,
+                    "value": "Rittner, Tadeusz"
+                },
+                {
+                    "count": 22,
+                    "value": "Korzeniowski, Józef"
+                },
+                {
+                    "count": 22,
+                    "value": "Rostworowski, Karol Hubert"
+                },
+                {
+                    "count": 21,
+                    "value": "Teatr Narodowy"
+                },
+                {
+                    "count": 20,
+                    "value": "Hauptmann, Gerhart"
+                },
+                {
+                    "count": 20,
+                    "value": "Krzemieniec (Ukraina, obw. tarnopolski)"
+                },
+                {
+                    "count": 20,
+                    "value": "Morstin, Ludwik Hieronim"
+                },
+                {
+                    "count": 20,
+                    "value": "Nowaczyński, Adolf"
+                },
+                {
+                    "count": 20,
+                    "value": "Teatr im. Wandy Siemaszkowej (Rzeszów)"
+                },
+                {
+                    "count": 19,
+                    "value": "Bisson, Alexandre"
+                },
+                {
+                    "count": 19,
+                    "value": "Drabik, Wincenty"
+                },
+                {
+                    "count": 19,
+                    "value": "Poznań (woj. wielkopolskie)"
+                },
+                {
+                    "count": 19,
+                    "value": "Przekłady słowackie"
+                },
+                {
+                    "count": 19,
+                    "value": "Savage, Richard Henry"
+                },
+                {
+                    "count": 19,
+                    "value": "Sudermann, Hermann"
+                },
+                {
+                    "count": 19,
+                    "value": "Wrocław (woj. dolnośląskie)"
+                },
+                {
+                    "count": 18,
+                    "value": "Krzemieniec (Ukraina, obw. tarnopolski, rej. krzemieniecki)"
+                },
+                {
+                    "count": 18,
+                    "value": "Stylistyka"
+                },
+                {
+                    "count": 18,
+                    "value": "Śliwicki, Józef"
+                },
+                {
+                    "count": 17,
+                    "value": "Muzyka polska"
+                },
+                {
+                    "count": 16,
+                    "value": "Friedberg, Sydon"
+                },
+                {
+                    "count": 16,
+                    "value": "Kadelburg, Gustav"
+                },
+                {
+                    "count": 16,
+                    "value": "Sarnecki, Zygmunt"
+                },
+                {
+                    "count": 16,
+                    "value": "Teatr Rapsodyczny (Kraków)"
+                },
+                {
+                    "count": 15,
+                    "value": "Abrahamowicz, Adolf"
+                },
+                {
+                    "count": 15,
+                    "value": "Czechow, Anton"
+                },
+                {
+                    "count": 15,
+                    "value": "JKS 1909 Jarosław"
+                },
+                {
+                    "count": 15,
+                    "value": "Malarstwo polskie "
+                },
+                {
+                    "count": 15,
+                    "value": "Muzyka słowacka"
+                },
+                {
+                    "count": 15,
+                    "value": "Osterwa, Juliusz"
+                }
+            ],
+            "category": [
+                {
+                    "count": 2826,
+                    "value": "ephemerals"
+                },
+                {
+                    "count": 1103,
+                    "value": "books"
+                },
+                {
+                    "count": 963,
+                    "value": "articles"
+                },
+                {
+                    "count": 191,
+                    "value": "photographs"
+                },
+                {
+                    "count": 157,
+                    "value": "postcards"
+                },
+                {
+                    "count": 46,
+                    "value": "manuscripts"
+                },
+                {
+                    "count": 37,
+                    "value": "prints"
+                },
+                {
+                    "count": 35,
+                    "value": "serials"
+                },
+                {
+                    "count": 25,
+                    "value": "scores"
+                },
+                {
+                    "count": 1,
+                    "value": "maps"
+                }
+            ],
+            "time_period_of_creation": [
+                {
+                    "count": 6,
+                    "value": "1801-1900"
+                },
+                {
+                    "count": 2,
+                    "value": "1901-2000"
+                },
+                {
+                    "count": 2,
+                    "value": "1930-1939"
+                },
+                {
+                    "count": 1,
+                    "value": "1900-1909"
+                },
+                {
+                    "count": 1,
+                    "value": "1908"
+                },
+                {
+                    "count": 1,
+                    "value": "1920-1929"
+                },
+                {
+                    "count": 1,
+                    "value": "2001-"
+                },
+                {
+                    "count": 1,
+                    "value": "ok. 1927"
+                }
+            ],
+            "publisher": [
+                {
+                    "count": 1389,
+                    "value": "nakł. Dyrekcyi Teatru Miejskiego"
+                },
+                {
+                    "count": 677,
+                    "value": "nakł. Dyrekcji Teatru Miejskiego"
+                },
+                {
+                    "count": 224,
+                    "value": "wydawca nieznany"
+                },
+                {
+                    "count": 65,
+                    "value": "Gebethner i Wolff"
+                },
+                {
+                    "count": 41,
+                    "value": "Księgarnia i Skład Nut Gubrynowicza i Schmidta (Lwów"
+                },
+                {
+                    "count": 38,
+                    "value": "Księgarnia Wydawnicza W. Zukerkandla (Lwów"
+                },
+                {
+                    "count": 38,
+                    "value": "M. Arct"
+                },
+                {
+                    "count": 32,
+                    "value": "W. Gubrynowicz"
+                },
+                {
+                    "count": 24,
+                    "value": "Bibl. Arcydzieł Literatury"
+                },
+                {
+                    "count": 22,
+                    "value": "F. A. Brockhaus"
+                },
+                {
+                    "count": 22,
+                    "value": "nakł. Dyrekcyi Teatru miejskiego"
+                },
+                {
+                    "count": 20,
+                    "value": "Księgarnia Polska"
+                },
+                {
+                    "count": 13,
+                    "value": "Wydawnictwo \"Pocztówki\""
+                },
+                {
+                    "count": 12,
+                    "value": "\"Księgarnia Polska\""
+                },
+                {
+                    "count": 11,
+                    "value": "Spółka Wydaw. K. Miarki"
+                },
+                {
+                    "count": 10,
+                    "value": "J. Zawadzki"
+                },
+                {
+                    "count": 10,
+                    "value": "K. Bartoszewicz"
+                },
+                {
+                    "count": 10,
+                    "value": "Krak. Spółka Wydawn"
+                },
+                {
+                    "count": 10,
+                    "value": "Krakowska Spółka Wydawnicza"
+                },
+                {
+                    "count": 10,
+                    "value": "nakł. aut"
+                },
+                {
+                    "count": 9,
+                    "value": "\"Vita\""
+                },
+                {
+                    "count": 9,
+                    "value": "Fundacja Nowoczesna Polska. Wydawca"
+                },
+                {
+                    "count": 9,
+                    "value": "Gebethner I Wolff"
+                },
+                {
+                    "count": 9,
+                    "value": "Zakład Narodowy im. Ossolińskich"
+                },
+                {
+                    "count": 9,
+                    "value": "nakładem Zarządu Głównego T.S.L"
+                },
+                {
+                    "count": 8,
+                    "value": "Gubrynowicz i Schmidt"
+                },
+                {
+                    "count": 8,
+                    "value": "Książnica Naukowa"
+                },
+                {
+                    "count": 8,
+                    "value": "Księg. Polska"
+                },
+                {
+                    "count": 8,
+                    "value": "Ventigo Media. Wydawca"
+                },
+                {
+                    "count": 8,
+                    "value": "Wydawn. sal. mal. polsk"
+                },
+                {
+                    "count": 7,
+                    "value": "Bibljoteka Arcydzieł Literatury"
+                },
+                {
+                    "count": 7,
+                    "value": "J. J. Maurer"
+                },
+                {
+                    "count": 7,
+                    "value": "Księgarnia Dra Maksymiliana Bodeka"
+                },
+                {
+                    "count": 7,
+                    "value": "nakładem autora"
+                },
+                {
+                    "count": 6,
+                    "value": "M. Orgelbrand"
+                },
+                {
+                    "count": 6,
+                    "value": "Trzaska, Evert i Michalski"
+                },
+                {
+                    "count": 6,
+                    "value": "Wydawnictwo Zarządu Głównego Polskiej Macierzy Szkolnej"
+                },
+                {
+                    "count": 5,
+                    "value": "Biblioteka Dzieł Wyborowych. Redakcya i Administracya"
+                },
+                {
+                    "count": 5,
+                    "value": "F. West"
+                },
+                {
+                    "count": 5,
+                    "value": "Gebethner i Spółka ; Gebethner i Wolff"
+                },
+                {
+                    "count": 5,
+                    "value": "H. Altenberg"
+                },
+                {
+                    "count": 5,
+                    "value": "Krak. Spółka Wydawnicza"
+                },
+                {
+                    "count": 5,
+                    "value": "Krakowska Spółka Wydawn"
+                },
+                {
+                    "count": 5,
+                    "value": "Librairie du Luxembourg"
+                },
+                {
+                    "count": 5,
+                    "value": "M. Haskler"
+                },
+                {
+                    "count": 5,
+                    "value": "T. H. Nasierowski"
+                },
+                {
+                    "count": 5,
+                    "value": "W. Doboszyński"
+                },
+                {
+                    "count": 5,
+                    "value": "Wydawnictwo Salonu Malarzy Polskich"
+                },
+                {
+                    "count": 5,
+                    "value": "Wędrowiec"
+                },
+                {
+                    "count": 4,
+                    "value": "\"Biblioteka Arcydzieł\""
+                },
+                {
+                    "count": 4,
+                    "value": "\"Przełom\""
+                },
+                {
+                    "count": 4,
+                    "value": "\"Wędrowiec\""
+                },
+                {
+                    "count": 4,
+                    "value": "Akademia Umiejętności"
+                },
+                {
+                    "count": 4,
+                    "value": "Akademia Umiejętności (Kraków"
+                },
+                {
+                    "count": 4,
+                    "value": "Aleksander Rodziewicz"
+                },
+                {
+                    "count": 4,
+                    "value": "Bibljoteka Klasyków"
+                },
+                {
+                    "count": 4,
+                    "value": "J. Lisowska"
+                },
+                {
+                    "count": 4,
+                    "value": "K. Idzikowski"
+                },
+                {
+                    "count": 4,
+                    "value": "Krak. Sp. Wydawnicza"
+                },
+                {
+                    "count": 4,
+                    "value": "L. Biernacki"
+                },
+                {
+                    "count": 4,
+                    "value": "Manz"
+                },
+                {
+                    "count": 4,
+                    "value": "Rada Polonii Amerykańskiej"
+                },
+                {
+                    "count": 4,
+                    "value": "Zygmunt Jeleń"
+                },
+                {
+                    "count": 4,
+                    "value": "nakł. Teatru Miejskiego im. J. Słowackiego"
+                },
+                {
+                    "count": 4,
+                    "value": "nakł. wyd"
+                },
+                {
+                    "count": 4,
+                    "value": "u Teofila Barrois Syna : u Hektora Bossange i Komp"
+                },
+                {
+                    "count": 3,
+                    "value": "\"Biblioteka Polska\""
+                },
+                {
+                    "count": 3,
+                    "value": "\"Parnas Polski\""
+                },
+                {
+                    "count": 3,
+                    "value": "A. Małecki"
+                },
+                {
+                    "count": 3,
+                    "value": "B. M. Wolff"
+                },
+                {
+                    "count": 3,
+                    "value": "Drukarnia „Czasu” W. Kirchmayera"
+                },
+                {
+                    "count": 3,
+                    "value": "Edition de cartes postales polonaise"
+                },
+                {
+                    "count": 3,
+                    "value": "F. Grzybowski"
+                },
+                {
+                    "count": 3,
+                    "value": "Krak. Spółdz. Wydawn"
+                },
+                {
+                    "count": 3,
+                    "value": "M. Bodek"
+                },
+                {
+                    "count": 3,
+                    "value": "M. Dzikowski"
+                },
+                {
+                    "count": 3,
+                    "value": "Matica Slovenska"
+                },
+                {
+                    "count": 3,
+                    "value": "Państwowy Instytut Wydawniczy"
+                },
+                {
+                    "count": 3,
+                    "value": "Polskie Towarzystwo Krajoznawcze"
+                },
+                {
+                    "count": 3,
+                    "value": "TPN"
+                },
+                {
+                    "count": 3,
+                    "value": "Teatr Miejski im J. Słowackiego"
+                },
+                {
+                    "count": 3,
+                    "value": "Vita"
+                },
+                {
+                    "count": 3,
+                    "value": "Wilhelm Zukerkandel"
+                },
+                {
+                    "count": 3,
+                    "value": "Wydawnictwo Jakuba Mortkowicza"
+                },
+                {
+                    "count": 3,
+                    "value": "Wydawnictwo Józefa Poznańskiego"
+                },
+                {
+                    "count": 3,
+                    "value": "nakł. Spółki Wydawn. \"Postęp\", Niemojowski & Dębicki"
+                },
+                {
+                    "count": 3,
+                    "value": "nakładem B-ci Rzepkowicz"
+                },
+                {
+                    "count": 2,
+                    "value": "\"Galim\""
+                },
+                {
+                    "count": 2,
+                    "value": "\"Ognisko\""
+                },
+                {
+                    "count": 2,
+                    "value": "\"Pomoc Szkolna\""
+                },
+                {
+                    "count": 2,
+                    "value": "A. Piwarski i S-ka"
+                },
+                {
+                    "count": 2,
+                    "value": "B. Klimo"
+                },
+                {
+                    "count": 2,
+                    "value": "Biblioteka Arcydzieł"
+                },
+                {
+                    "count": 2,
+                    "value": "Biblioteka Polska"
+                },
+                {
+                    "count": 2,
+                    "value": "Dyrekcja Teatru Miejskiego"
+                },
+                {
+                    "count": 2,
+                    "value": "Ed. Grégr"
+                },
+                {
+                    "count": 2,
+                    "value": "Edycja Sulimy"
+                },
+                {
+                    "count": 2,
+                    "value": "F. A. Brockhaus ; Trubner & Comp"
+                },
+                {
+                    "count": 2,
+                    "value": "F. H. Richter"
+                }
+            ],
+            "form_and_type": [
+                {
+                    "count": 2826,
+                    "value": "Druki ulotne"
+                },
+                {
+                    "count": 941,
+                    "value": "Artykuły"
+                },
+                {
+                    "count": 724,
+                    "value": "Książki"
+                },
+                {
+                    "count": 154,
+                    "value": "Publikacje naukowe"
+                },
+                {
+                    "count": 149,
+                    "value": "Fotografie"
+                },
+                {
+                    "count": 30,
+                    "value": "Literatura faktu, eseje, publicystyka"
+                },
+                {
+                    "count": 26,
+                    "value": "Nuty"
+                },
+                {
+                    "count": 23,
+                    "value": "Rękopisy"
+                },
+                {
+                    "count": 21,
+                    "value": "E-booki"
+                },
+                {
+                    "count": 19,
+                    "value": "Poezja"
+                },
+                {
+                    "count": 18,
+                    "value": "Dramat (rodzaj)"
+                },
+                {
+                    "count": 10,
+                    "value": "Czasopisma"
+                },
+                {
+                    "count": 9,
+                    "value": "Grafiki"
+                },
+                {
+                    "count": 8,
+                    "value": "Proza"
+                },
+                {
+                    "count": 8,
+                    "value": "Rysunki"
+                },
+                {
+                    "count": 7,
+                    "value": "Publikacje informacyjne"
+                },
+                {
+                    "count": 6,
+                    "value": "Publikacje popularnonaukowe"
+                },
+                {
+                    "count": 3,
+                    "value": "Albumy i książki artystyczne"
+                },
+                {
+                    "count": 1,
+                    "value": "Mapy"
+                },
+                {
+                    "count": 1,
+                    "value": "Publikacje dydaktyczne"
+                },
+                {
+                    "count": 1,
+                    "value": "Publikacje fachowe"
+                },
+                {
+                    "count": 1,
+                    "value": "Publikacje promocyjne"
+                },
+                {
+                    "count": 1,
+                    "value": "Starodruki"
+                }
+            ],
+            "cultural_area": [
+                {
+                    "count": 43,
+                    "value": "Literatura polska"
+                },
+                {
+                    "count": 18,
+                    "value": "Fotografia polska"
+                },
+                {
+                    "count": 9,
+                    "value": "Muzyka polska"
+                },
+                {
+                    "count": 4,
+                    "value": "Grafika polska"
+                },
+                {
+                    "count": 1,
+                    "value": "Fotografia niemiecka"
+                },
+                {
+                    "count": 1,
+                    "value": "Literatura słowacka"
+                }
+            ],
+            "contributor": [
+                {
+                    "count": 25,
+                    "value": "Kridl, Manfred (1882-1957). Red."
+                },
+                {
+                    "count": 25,
+                    "value": "Piwiński, Leon (1889-1942). Red."
+                },
+                {
+                    "count": 24,
+                    "value": "Lechoń, Jan (1899-1956). Przedm."
+                },
+                {
+                    "count": 21,
+                    "value": "Gubrynowicz, Bronisław (1870-1933) Wyd"
+                },
+                {
+                    "count": 19,
+                    "value": "Setkowicz, Adam (1875-1946) Autor wzoru"
+                },
+                {
+                    "count": 18,
+                    "value": "Słowacki, Juliusz (1809-1849) Mnich"
+                },
+                {
+                    "count": 17,
+                    "value": "Słowacki, Juliusz (1809-1849) W Szwajcarii"
+                },
+                {
+                    "count": 16,
+                    "value": "Słowacki, Juliusz (1809-1849) Arab"
+                },
+                {
+                    "count": 15,
+                    "value": "Słowacki, Juliusz (1809-1849) Hugo"
+                },
+                {
+                    "count": 14,
+                    "value": "Chmielowski, Piotr (1848-1904) Przedm"
+                },
+                {
+                    "count": 13,
+                    "value": "Ujejski, Józef (1883-1937) Oprac"
+                },
+                {
+                    "count": 12,
+                    "value": "Małecki, Antoni (1821-1913) Wyd"
+                },
+                {
+                    "count": 11,
+                    "value": "Słowacki, Juliusz (1809-1849) Lilla Weneda"
+                },
+                {
+                    "count": 10,
+                    "value": "Słowacki, Juliusz (1809-1849) Balladyna (pol)"
+                },
+                {
+                    "count": 10,
+                    "value": "Słowacki, Juliusz (1809-1849) Grób Agamemnona"
+                },
+                {
+                    "count": 10,
+                    "value": "Słowacki, Juliusz (1809-1849) Lambro"
+                },
+                {
+                    "count": 10,
+                    "value": "Słowacki, Juliusz (1809-1849) Żmija"
+                },
+                {
+                    "count": 9,
+                    "value": "Londoński, Zdzisław (1888-1941) Oprac"
+                },
+                {
+                    "count": 9,
+                    "value": "Słowacki, Juliusz (1809-1849) Ksiądz Marek"
+                },
+                {
+                    "count": 9,
+                    "value": "Słowacki, Juliusz (1809-1849) Mazepa"
+                },
+                {
+                    "count": 9,
+                    "value": "Słowacki, Juliusz (1809-1849). Beniowski"
+                },
+                {
+                    "count": 8,
+                    "value": "Słowacki, Juliusz (1809-1849) Słowa"
+                },
+                {
+                    "count": 8,
+                    "value": "Słowacki, Juliusz (1809-1849). Balladyna (pol.)"
+                },
+                {
+                    "count": 8,
+                    "value": "Słowacki, Juliusz (1809-1849). Ksiądz Marek"
+                },
+                {
+                    "count": 8,
+                    "value": "Słowacki, Juliusz (1809-1849). Książę Niezłomny"
+                },
+                {
+                    "count": 8,
+                    "value": "Słowacki, Juliusz (1809-1849). Mindowe król litewski"
+                },
+                {
+                    "count": 8,
+                    "value": "Słowacki, Juliusz (1809-1849). Sen srebrny Salomei"
+                },
+                {
+                    "count": 7,
+                    "value": "Biegeleisen, Henryk (1855-1934) Wyd"
+                },
+                {
+                    "count": 7,
+                    "value": "Galle, Henryk (1872-1948) Oprac"
+                },
+                {
+                    "count": 7,
+                    "value": "Górski, Artur (1870-1959). Oprac"
+                },
+                {
+                    "count": 7,
+                    "value": "Słowacki, Juliusz (1809-1849) Anhelli"
+                },
+                {
+                    "count": 7,
+                    "value": "Słowacki, Juliusz (1809-1849) Książę Niezłomny"
+                },
+                {
+                    "count": 7,
+                    "value": "Słowacki, Juliusz (1809-1849) Ojciec zadżumionych"
+                },
+                {
+                    "count": 7,
+                    "value": "Słowacki, Juliusz (1809-1849) Sen srebrny Salomei"
+                },
+                {
+                    "count": 7,
+                    "value": "Słowacki, Juliusz (1809-1849). Lilla Weneda"
+                },
+                {
+                    "count": 7,
+                    "value": "Słowacki, Juliusz (1809-1849). Maria Stuart"
+                },
+                {
+                    "count": 7,
+                    "value": "Słowacki, Juliusz (1809-1849). Mazepa"
+                },
+                {
+                    "count": 7,
+                    "value": "Słowacki, Juliusz (1809-1849). Mnich"
+                },
+                {
+                    "count": 7,
+                    "value": "Słowacki, Juliusz (1809-1849). Żmija"
+                },
+                {
+                    "count": 6,
+                    "value": "Biegeleisen, Henryk (1855-1934) Oprac"
+                },
+                {
+                    "count": 6,
+                    "value": "Chmielowski, Piotr (1848-1904). Przedm."
+                },
+                {
+                    "count": 6,
+                    "value": "Gasztowtt, Wacław (1844-1920). Tł."
+                },
+                {
+                    "count": 6,
+                    "value": "Hoesick, Ferdynand (1867-1941). Red."
+                },
+                {
+                    "count": 6,
+                    "value": "Janik, Michał (1874-1948) Oprac"
+                },
+                {
+                    "count": 6,
+                    "value": "Kallenbach, Józef (1861-1929) Oprac"
+                },
+                {
+                    "count": 6,
+                    "value": "Słowacki, Juliusz (1809-1849) Jan Bielecki"
+                },
+                {
+                    "count": 6,
+                    "value": "Słowacki, Juliusz (1809-1849) Kordian (pol)"
+                },
+                {
+                    "count": 6,
+                    "value": "Słowacki, Juliusz (1809-1849). Arab"
+                },
+                {
+                    "count": 6,
+                    "value": "Słowacki, Juliusz (1809-1849). Hugo"
+                },
+                {
+                    "count": 6,
+                    "value": "Waligórski, Miłosz (1981- ) Tł"
+                },
+                {
+                    "count": 5,
+                    "value": "Biegeleisen, Henryk (1855-1934). Wyd."
+                },
+                {
+                    "count": 5,
+                    "value": "Chmielowski, Paweł Przedm"
+                },
+                {
+                    "count": 5,
+                    "value": "Gasztowtt, Wacław (1844-1920) Tł"
+                },
+                {
+                    "count": 5,
+                    "value": "Hahn, Wiktor (1871-1959). Wyd."
+                },
+                {
+                    "count": 5,
+                    "value": "Kaczurba, Adam (1854-1909) Wyd"
+                },
+                {
+                    "count": 5,
+                    "value": "Matuszewski, Ignacy (1858-1919). Przedm."
+                },
+                {
+                    "count": 5,
+                    "value": "Małecki, Antoni (1821-1913). Wyd."
+                },
+                {
+                    "count": 5,
+                    "value": "Méyet, Leopold (1850-1912). Red."
+                },
+                {
+                    "count": 5,
+                    "value": "Nieczkowska, Małgorzata"
+                },
+                {
+                    "count": 5,
+                    "value": "Parylak, Piotr (1846-1916) Wyd"
+                },
+                {
+                    "count": 5,
+                    "value": "Sternklar, Leon (1866-1937) Oprac"
+                },
+                {
+                    "count": 5,
+                    "value": "Słowacki, Juliusz (1809-1849) Do Michała Rola Skibickiego"
+                },
+                {
+                    "count": 5,
+                    "value": "Słowacki, Juliusz (1809-1849) Maria Stuart"
+                },
+                {
+                    "count": 5,
+                    "value": "Słowacki, Juliusz (1809-1849) Wacław"
+                },
+                {
+                    "count": 5,
+                    "value": "Słowacki, Juliusz (1809-1849). Jan Bielecki"
+                },
+                {
+                    "count": 5,
+                    "value": "Słowacki, Juliusz (1809-1849). Wacław"
+                },
+                {
+                    "count": 5,
+                    "value": "Ujejski, Józef (1883-1937). Oprac"
+                },
+                {
+                    "count": 5,
+                    "value": "Świątek, Tadeusz (1884-1940) Red"
+                },
+                {
+                    "count": 4,
+                    "value": "Chmielowski, Piotr (1848-1904) Oprac"
+                },
+                {
+                    "count": 4,
+                    "value": "Gubrynowicz, Bronisław (1870-1933). Wyd."
+                },
+                {
+                    "count": 4,
+                    "value": "Hoesick, Ferdynand (1867-1941) Red"
+                },
+                {
+                    "count": 4,
+                    "value": "Krüger, Czesław Marian (1897-1970) Redakcja"
+                },
+                {
+                    "count": 4,
+                    "value": "Matuszewski, Ignacy (1858-1919) Przedm"
+                },
+                {
+                    "count": 4,
+                    "value": "Méyet, Leopold (1850-1912) Red"
+                },
+                {
+                    "count": 4,
+                    "value": "Rodziewicz, Aleksander (1898-1981) pbl"
+                },
+                {
+                    "count": 4,
+                    "value": "Sebald, Józef (1853-1931)"
+                },
+                {
+                    "count": 4,
+                    "value": "Słowacki, Juliusz (1809-1849) Godzina myśli"
+                },
+                {
+                    "count": 4,
+                    "value": "Słowacki, Juliusz (1809-1849) Król-Duch Rapsod I"
+                },
+                {
+                    "count": 4,
+                    "value": "Słowacki, Juliusz (1809-1849) Mazepa (pol)"
+                },
+                {
+                    "count": 4,
+                    "value": "Słowacki, Juliusz (1809-1849). Jan Kazimierz"
+                },
+                {
+                    "count": 4,
+                    "value": "Słowacki, Juliusz (1809-1849). Kordian (pol.)"
+                },
+                {
+                    "count": 4,
+                    "value": "Słowacki, Juliusz (1809-1849). Wallenrod"
+                },
+                {
+                    "count": 4,
+                    "value": "Słowacki, Juliusz (1809-1849). Walter Stadion"
+                },
+                {
+                    "count": 4,
+                    "value": "Słowacki, Juliusz (1809-1849). Złota czaszka"
+                },
+                {
+                    "count": 3,
+                    "value": "Biegeleisen, Henryk (1855-1934) Redakcja"
+                },
+                {
+                    "count": 3,
+                    "value": "Biegeleisen, Henryk (1855-1934). Oprac"
+                },
+                {
+                    "count": 3,
+                    "value": "Chmielowski, Paweł. Przedm."
+                },
+                {
+                    "count": 3,
+                    "value": "Dworski, Emanuel (1850-1916) Przedm"
+                },
+                {
+                    "count": 3,
+                    "value": "Galle, Henryk (1872-1948). Oprac"
+                },
+                {
+                    "count": 3,
+                    "value": "Hartwig, Edward (1909-2003)"
+                },
+                {
+                    "count": 3,
+                    "value": "Kołaczkowski, Stefan (1887-1940) Oprac"
+                },
+                {
+                    "count": 3,
+                    "value": "Piwiński, Leon (1889-1942). Wyd."
+                },
+                {
+                    "count": 3,
+                    "value": "Słowacki, Juliusz (1809-1849) Kordian"
+                },
+                {
+                    "count": 3,
+                    "value": "Słowacki, Juliusz (1809-1849) Poezje ulotne"
+                },
+                {
+                    "count": 3,
+                    "value": "Słowacki, Juliusz (1809-1849). Anhelli"
+                },
+                {
+                    "count": 3,
+                    "value": "Słowacki, Juliusz (1809-1849). Fantazy"
+                },
+                {
+                    "count": 3,
+                    "value": "Słowacki, Juliusz (1809-1849). Maria Stuart (pol.)"
+                },
+                {
+                    "count": 3,
+                    "value": "Słowacki, Juliusz (1809-1849). W Szwajcarii"
+                },
+                {
+                    "count": 2,
+                    "value": "Adamík, Štefan (1945-2017) Tł"
+                }
+            ],
+            "language": [
+                {
+                    "count": 4973,
+                    "value": "polski"
+                },
+                {
+                    "count": 52,
+                    "value": "słowacki"
+                },
+                {
+                    "count": 45,
+                    "value": "angielski"
+                },
+                {
+                    "count": 40,
+                    "value": "francuski"
+                },
+                {
+                    "count": 22,
+                    "value": "rosyjski"
+                },
+                {
+                    "count": 22,
+                    "value": "ukraiński"
+                },
+                {
+                    "count": 19,
+                    "value": "czeski"
+                },
+                {
+                    "count": 16,
+                    "value": "niemiecki"
+                },
+                {
+                    "count": 6,
+                    "value": "słowianskie"
+                },
+                {
+                    "count": 6,
+                    "value": "włoski"
+                },
+                {
+                    "count": 4,
+                    "value": "esperanto"
+                },
+                {
+                    "count": 3,
+                    "value": "niderlandzki"
+                },
+                {
+                    "count": 2,
+                    "value": "hebrajski"
+                },
+                {
+                    "count": 2,
+                    "value": "wiele jezyków"
+                },
+                {
+                    "count": 1,
+                    "value": "jidysz"
+                },
+                {
+                    "count": 1,
+                    "value": "ormianski"
+                },
+                {
+                    "count": 1,
+                    "value": "serbski"
+                },
+                {
+                    "count": 1,
+                    "value": "wegierski"
+                },
+                {
+                    "count": 1,
+                    "value": "łaciński"
+                }
+            ],
+            "public": [],
+            "discipline_and_approach": [
+                {
+                    "count": 247,
+                    "value": "Kultura i sztuka"
+                },
+                {
+                    "count": 202,
+                    "value": "Literaturoznawstwo"
+                },
+                {
+                    "count": 91,
+                    "value": "Historia"
+                },
+                {
+                    "count": 31,
+                    "value": "Prawo i wymiar sprawiedliwości"
+                },
+                {
+                    "count": 28,
+                    "value": "Językoznawstwo"
+                },
+                {
+                    "count": 20,
+                    "value": "Bibliotekarstwo, archiwistyka, muzealnictwo"
+                },
+                {
+                    "count": 15,
+                    "value": "Hobby i czas wolny"
+                },
+                {
+                    "count": 15,
+                    "value": "Kutura i sztuka"
+                },
+                {
+                    "count": 11,
+                    "value": "Polityka, politologia, administracja publiczna"
+                },
+                {
+                    "count": 8,
+                    "value": "Socjologia i społeczeństwo"
+                },
+                {
+                    "count": 7,
+                    "value": "Edukacja i pedagogika"
+                },
+                {
+                    "count": 7,
+                    "value": "Religia i duchowość"
+                },
+                {
+                    "count": 5,
+                    "value": "Architektura i budownictwo"
+                },
+                {
+                    "count": 5,
+                    "value": "Media i komunikacja społeczna"
+                },
+                {
+                    "count": 3,
+                    "value": "Etnologia i antropologia kulturowa"
+                },
+                {
+                    "count": 3,
+                    "value": "Gospodarka, ekonomia, finanse"
+                },
+                {
+                    "count": 2,
+                    "value": "Filozofia i etyka"
+                },
+                {
+                    "count": 2,
+                    "value": "Kultura fizyczna i sport"
+                },
+                {
+                    "count": 1,
+                    "value": "Bezpieczeństwo i wojskowość"
+                },
+                {
+                    "count": 1,
+                    "value": "Fizyka i astronomia"
+                },
+                {
+                    "count": 1,
+                    "value": "Geografia i nauki o Ziemi"
+                },
+                {
+                    "count": 1,
+                    "value": "Historia "
+                },
+                {
+                    "count": 1,
+                    "value": "Kultura i sztuka  "
+                },
+                {
+                    "count": 1,
+                    "value": "Psychologia"
+                },
+                {
+                    "count": 1,
+                    "value": "Zarządzanie i marketing"
+                }
+            ],
+            "source": [
+                {
+                    "count": 5365,
+                    "value": "Biblioteka Narodowa"
+                },
+                {
+                    "count": 33,
+                    "value": "Biblioteka Jagiellońska"
+                },
+                {
+                    "count": 8,
+                    "value": "Instytut Badań Literackich PAN"
+                },
+                {
+                    "count": 1,
+                    "value": "Archiwum Dokumentacji Mechanicznej"
+                },
+                {
+                    "count": 1,
+                    "value": "Biblioteka Główna Politechniki Warszawskiej"
+                }
+            ],
+            "project": [
+                {
+                    "count": 1155,
+                    "value": "Patrimonium"
+                },
+                {
+                    "count": 547,
+                    "value": "Merkuriusz"
+                },
+                {
+                    "count": 375,
+                    "value": "Merkuriusz 2"
+                },
+                {
+                    "count": 81,
+                    "value": "Academica"
+                },
+                {
+                    "count": 18,
+                    "value": "Academica - Ossolineum"
+                }
+            ],
+            "content_of_uid": [],
+            "rights": [
+                {
+                    "count": 4089,
+                    "value": "Domena Publiczna. Wolno zwielokrotniać, zmieniać i rozpowszechniać oraz wykonywać utwór, nawet w celach komercyjnych, bez konieczności pytania o zgodę. Wykorzystując utwór należy pamiętać o poszanowaniu autorskich praw osobistych Twórcy."
+                },
+                {
+                    "count": 1195,
+                    "value": "Publikacja chroniona prawem autorskim - reprodukcja cyfrowa dostępna w czytelniach BN i na terminalach Academiki"
+                },
+                {
+                    "count": 51,
+                    "value": "Publikacja chroniona prawem autorskim - reprodukcja cyfrowa dostępna w czytelniach BN"
+                },
+                {
+                    "count": 29,
+                    "value": "Publikacja udostępniona za zgodą spadkobierców autora. Całość ani żadna z jej części nie może być przetwarzana ani wykorzystywana w celach komercyjnych"
+                },
+                {
+                    "count": 21,
+                    "value": "Domena Publiczna. Wolno zwielokrotniać, zmieniać i rozpowszechniać oraz wykonywać utwór, nawet w celach komercyjnych, bez konieczności pytania o zgodę."
+                },
+                {
+                    "count": 7,
+                    "value": "Publikacja udostępniona za zgodą wydawcy. Całość ani żadna z jej części nie może być przetwarzana ani wykorzystywana w celach komercyjnych"
+                },
+                {
+                    "count": 7,
+                    "value": "Uznanie Autorstwa – Użycie Niekomercyjne – Na Tych Samych Warunkach 3.0 Polska"
+                },
+                {
+                    "count": 4,
+                    "value": "Uznanie Autorstwa – Użycie Niekomercyjne – Bez Utworów Zależnych 4.0"
+                },
+                {
+                    "count": 2,
+                    "value": "Publikacja udostępniona za zgodą autora oraz wydawcy. Całość ani żadna z jej części nie może być przetwarzana ani wykorzystywana w celach komercyjnych"
+                },
+                {
+                    "count": 1,
+                    "value": "Uznanie Autorstwa 3.0 Polska"
+                }
+            ],
+            "contributor_corp": [
+                {
+                    "count": 76,
+                    "value": "Gebethner i Wolff"
+                },
+                {
+                    "count": 48,
+                    "value": "Księgarnia i Skład Nut Gubrynowicza i Schmidta (Lwów)"
+                },
+                {
+                    "count": 37,
+                    "value": "Księgarnia Wydawnicza W Zukerkandla (Lwów)"
+                },
+                {
+                    "count": 25,
+                    "value": "Zakład Fotograficzny \"Kuczyński\" (Kraków)"
+                },
+                {
+                    "count": 11,
+                    "value": "Fundacja Nowoczesna Polska Wydawca"
+                },
+                {
+                    "count": 10,
+                    "value": "Księgarnia Dra Maksymiliana Bodeka"
+                },
+                {
+                    "count": 10,
+                    "value": "Wydawnictwo Salonu Malarzy Polskich (Kraków)"
+                },
+                {
+                    "count": 9,
+                    "value": "Ventigo Media Wydawca"
+                },
+                {
+                    "count": 6,
+                    "value": "Wydawnictwo Jakuba Mortkowicza"
+                },
+                {
+                    "count": 5,
+                    "value": "Zakład Fotograficzny \"Zofia\" (Kraków)"
+                },
+                {
+                    "count": 4,
+                    "value": "Akademia Umiejętności (Kraków)"
+                },
+                {
+                    "count": 4,
+                    "value": "Państwowy Instytut Wydawniczy"
+                },
+                {
+                    "count": 4,
+                    "value": "Tatrzański Park Narodowy"
+                },
+                {
+                    "count": 3,
+                    "value": "Agencja Fotograficzna \"Światowid\" (Kraków) Fotografie"
+                },
+                {
+                    "count": 3,
+                    "value": "Maulde et Renou (Paryż) Druk"
+                },
+                {
+                    "count": 2,
+                    "value": "Biblioteka Ordynacji Krasińskich Właściciel"
+                },
+                {
+                    "count": 2,
+                    "value": "Galeria Miejska BWA w Bydgoszczy"
+                },
+                {
+                    "count": 2,
+                    "value": "Gimnazjum im Juliusza Słowackiego (Warszawa)"
+                },
+                {
+                    "count": 2,
+                    "value": "Krakowskie Biuro Festiwalowe"
+                },
+                {
+                    "count": 2,
+                    "value": "Krakowskie Towarzystwo Wydawnicze Z. Banek i Ska"
+                },
+                {
+                    "count": 2,
+                    "value": "Oficyna Wydawnicza Adiutor, Rafał Stolarski"
+                },
+                {
+                    "count": 2,
+                    "value": "Redakcja Tygodnika \"Wędrowiec\""
+                },
+                {
+                    "count": 2,
+                    "value": "Teatr Miejski (Kraków)"
+                },
+                {
+                    "count": 2,
+                    "value": "Uniwersytet Warszawski"
+                },
+                {
+                    "count": 2,
+                    "value": "Wydawnictwo \"Promień\""
+                },
+                {
+                    "count": 2,
+                    "value": "Wydawnictwo Literackie"
+                },
+                {
+                    "count": 2,
+                    "value": "Wydawnictwo Polonia (Kraków)"
+                },
+                {
+                    "count": 2,
+                    "value": "Zakład Fotograficzny A Strauss (Wilno) Fotografie"
+                },
+                {
+                    "count": 1,
+                    "value": "Agade Bis, Magdalena Kapełuś"
+                },
+                {
+                    "count": 1,
+                    "value": "Agence Photographique de l'Europe Centrale S Londonski (Paryż)"
+                },
+                {
+                    "count": 1,
+                    "value": "Archiwum Główne Akt Dawnych Właściciel"
+                },
+                {
+                    "count": 1,
+                    "value": "Biblioteka Groszowa"
+                },
+                {
+                    "count": 1,
+                    "value": "Biblioteka Ordynacji Zamojskiej Właściciel"
+                },
+                {
+                    "count": 1,
+                    "value": "Calmann-Lévy"
+                },
+                {
+                    "count": 1,
+                    "value": "Centralna Agencja Fotograficzna. Fotografie. Wydawca"
+                },
+                {
+                    "count": 1,
+                    "value": "Centrum Sztuki Współczesnej Zamek Ujazdowski (Warszawa)"
+                },
+                {
+                    "count": 1,
+                    "value": "Collegium Marianum (Poznań)"
+                },
+                {
+                    "count": 1,
+                    "value": "De Agostini Polska"
+                },
+                {
+                    "count": 1,
+                    "value": "Difin. Wydawca"
+                },
+                {
+                    "count": 1,
+                    "value": "Dr E Mertens & Cie Berlin"
+                },
+                {
+                    "count": 1,
+                    "value": "Eureka Plus Agencja Reklamy, Barbara Fedorowicz, Ryszard Fedorowicz"
+                },
+                {
+                    "count": 1,
+                    "value": "Filharmonia Lubelska im Henryka Wieniawskiego"
+                },
+                {
+                    "count": 1,
+                    "value": "Galeria Sztuki \"Wozownia\" (Toruń)"
+                },
+                {
+                    "count": 1,
+                    "value": "Grupa Wydawnicza Foksal"
+                },
+                {
+                    "count": 1,
+                    "value": "Instytut Słowacki (Warszawa)"
+                },
+                {
+                    "count": 1,
+                    "value": "Instytut im Jerzego Grotowskiego"
+                },
+                {
+                    "count": 1,
+                    "value": "Katedra Informatyki Ekonomicznej (Politechnika Częstochowska)"
+                },
+                {
+                    "count": 1,
+                    "value": "Katolicki Uniwersytet Lubelski Katedra Języka Polskiego"
+                },
+                {
+                    "count": 1,
+                    "value": "Komitet Wyborczy w Tczewie (Stronnictwo Narodowe ; 1928-1947) Instytucja sprawcza"
+                },
+                {
+                    "count": 1,
+                    "value": "Książnica Podlaska im Łukasza Górnickiego w Białymstoku"
+                },
+                {
+                    "count": 1,
+                    "value": "Księgarnia Robotnicza (Warszawa)"
+                },
+                {
+                    "count": 1,
+                    "value": "Księgarnia Wydawnicza W. Zukerkandla (Lwów)"
+                },
+                {
+                    "count": 1,
+                    "value": "Kutrzeba & Murczyński"
+                },
+                {
+                    "count": 1,
+                    "value": "Liga Popierania Turystyki"
+                },
+                {
+                    "count": 1,
+                    "value": "Litografia Karola Kranikowskiego (Kraków)"
+                },
+                {
+                    "count": 1,
+                    "value": "Ludowa Spółdzielnia Wydawnicza"
+                },
+                {
+                    "count": 1,
+                    "value": "Lwowski Komitet Obchodu Sprowadzenia Zwłok Poety do Kraju"
+                },
+                {
+                    "count": 1,
+                    "value": "Ministerstwo Spraw Zagranicznych (Polska)"
+                },
+                {
+                    "count": 1,
+                    "value": "Muzeum Literatury im Adama Mickiewicza (Warszawa)"
+                },
+                {
+                    "count": 1,
+                    "value": "Muzeum Narodowe (Warszawa)"
+                },
+                {
+                    "count": 1,
+                    "value": "Narodowe Centrum Kultury"
+                },
+                {
+                    "count": 1,
+                    "value": "Oddział we Wrocławiu (Polska Akademia Nauk)"
+                },
+                {
+                    "count": 1,
+                    "value": "Państwowe Seminarium Nauczycielskie Męskie im Juliusza Słowackiego (Lublin) Instytucja sprawcza"
+                },
+                {
+                    "count": 1,
+                    "value": "Politechnika Łódzka"
+                },
+                {
+                    "count": 1,
+                    "value": "Redakcja Przyjaciela Dzieci"
+                },
+                {
+                    "count": 1,
+                    "value": "Redakcja Wydawnictw KUL"
+                },
+                {
+                    "count": 1,
+                    "value": "Ridero IT Publishing Wydawca"
+                },
+                {
+                    "count": 1,
+                    "value": "Spolok Slovenskych Umelcov"
+                },
+                {
+                    "count": 1,
+                    "value": "Stowarzyszenie Euroregion Karpacki Polska"
+                },
+                {
+                    "count": 1,
+                    "value": "Teatr im Juliusza Słowackiego (Kraków)"
+                },
+                {
+                    "count": 1,
+                    "value": "Towarzystwo Autorów i Wydawców Prac Naukowych Universitas"
+                },
+                {
+                    "count": 1,
+                    "value": "Towarzystwo Ludoznawcze (Lwów)"
+                },
+                {
+                    "count": 1,
+                    "value": "Uniwersytet Kardynała Stefana Wyszyńskiego (Warszawa) Instytucja sprawcza"
+                },
+                {
+                    "count": 1,
+                    "value": "Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie. Wydawnictwo"
+                },
+                {
+                    "count": 1,
+                    "value": "Uniwersytet Zielonogórski"
+                },
+                {
+                    "count": 1,
+                    "value": "Uniwersytet im Adama Mickiewicza (Poznań)"
+                },
+                {
+                    "count": 1,
+                    "value": "Uniwersytet Łódzki"
+                },
+                {
+                    "count": 1,
+                    "value": "Uniwersytet Łódzki. Wydział Filologiczny. Katedra Literatury i Tradycji Romantyzmu"
+                },
+                {
+                    "count": 1,
+                    "value": "Uniwersytet Śląski (Katowice)"
+                },
+                {
+                    "count": 1,
+                    "value": "Wisznicki, Mikołaj (1870-1954) Rys"
+                },
+                {
+                    "count": 1,
+                    "value": "Wydawnictwo \"Śląsk\""
+                },
+                {
+                    "count": 1,
+                    "value": "Wydawnictwo Arkady"
+                },
+                {
+                    "count": 1,
+                    "value": "Wydawnictwo Naukowe PWN"
+                },
+                {
+                    "count": 1,
+                    "value": "Wydawnictwo Naukowe Śląsk"
+                },
+                {
+                    "count": 1,
+                    "value": "Wydawnictwo Uniwersytetu Jagiellońskiego"
+                },
+                {
+                    "count": 1,
+                    "value": "Wydawnictwo Uniwersytetu Łódzkiego Wydawca"
+                },
+                {
+                    "count": 1,
+                    "value": "Wydawnictwo Uniwersytetu Śląskiego. Wydawca"
+                },
+                {
+                    "count": 1,
+                    "value": "Wydawnictwo Uran, Marzenna Bracka-Kondracka"
+                },
+                {
+                    "count": 1,
+                    "value": "Wydział Etnologii i Nauk o Edukacji (Filia Uniwersytetu Śląskiego ; Cieszyn)"
+                },
+                {
+                    "count": 1,
+                    "value": "Wydział Nauk o Bezpieczeństwie (Akademia Wojsk Lądowych imienia generała Tadeusza Kościuszki)"
+                },
+                {
+                    "count": 1,
+                    "value": "Zakład Badań Interdyscyplinarnych i Porównawczych \"Wschód - Zachód\" (Uniwersytet w Białymstoku)"
+                },
+                {
+                    "count": 1,
+                    "value": "Zakład Estetyki Literackiej (Uniwersytet im Adama Mickiewicza ; Poznań)"
+                },
+                {
+                    "count": 1,
+                    "value": "Zakład Fotograficzny \"Malarski i Tavrell\" (Warszawa)"
+                },
+                {
+                    "count": 1,
+                    "value": "Zakład Fotograficzny \"Rubens\" (Poznań)"
+                },
+                {
+                    "count": 1,
+                    "value": "Zakład Fotograficzny A Strauss (Wilno)"
+                },
+                {
+                    "count": 1,
+                    "value": "Zakład Fotograficzny Bahrynowicz i Statkiewicz (Lwów)"
+                },
+                {
+                    "count": 1,
+                    "value": "Zakłady Graficzne B Wierzbicki Druk"
+                },
+                {
+                    "count": 1,
+                    "value": "Związek Młodzieży Chrześcijańskiej \"Polska YMCA\" (Armia Polska na Wschodzie)"
+                }
+            ],
+            "creator": [
+                {
+                    "count": 677,
+                    "value": "Słowacki, Juliusz (1809-1849)"
+                },
+                {
+                    "count": 34,
+                    "value": "Słowacki, Juliusz (1809-1849) Autor"
+                },
+                {
+                    "count": 23,
+                    "value": "Hoesick, Ferdynand (1867-1941)"
+                },
+                {
+                    "count": 16,
+                    "value": "Słowacki, Euzebiusz (1773-1814)"
+                },
+                {
+                    "count": 15,
+                    "value": "Plewiński, Wojciech (1928- )"
+                },
+                {
+                    "count": 14,
+                    "value": "Dorys, Benedykt Jerzy (1901-1990)"
+                },
+                {
+                    "count": 13,
+                    "value": "Méyet, Leopold (1850-1912)"
+                },
+                {
+                    "count": 13,
+                    "value": "Pawlikowski, Jan Gwalbert (1860-1939)"
+                },
+                {
+                    "count": 10,
+                    "value": "Buczek, Marta (1971- )"
+                },
+                {
+                    "count": 10,
+                    "value": "Lipowski, Jaroslav (1962- )"
+                },
+                {
+                    "count": 10,
+                    "value": "Schneider, Stanisław (1858-1917)"
+                },
+                {
+                    "count": 9,
+                    "value": "Hartwig, Edward (1909-2003)"
+                },
+                {
+                    "count": 9,
+                    "value": "Radecki, Wojciech (1943- )"
+                },
+                {
+                    "count": 8,
+                    "value": "Siedlecki, Franciszek (1867-1934)"
+                },
+                {
+                    "count": 7,
+                    "value": "Matuszewski, Ignacy (1858-1919)"
+                },
+                {
+                    "count": 7,
+                    "value": "Małecki, Antoni (1821-1913)"
+                },
+                {
+                    "count": 7,
+                    "value": "Sawicz, Henryk"
+                },
+                {
+                    "count": 7,
+                    "value": "Żeleński, Tadeusz (1874-1941)"
+                },
+                {
+                    "count": 6,
+                    "value": "Chmielowski, Piotr (1848-1904)"
+                },
+                {
+                    "count": 6,
+                    "value": "Chrzanowski, Ignacy (1866-1940)"
+                },
+                {
+                    "count": 6,
+                    "value": "Dobrzyński, Władysław"
+                },
+                {
+                    "count": 6,
+                    "value": "Gubrynowicz, Bronisław (1870-1933)"
+                },
+                {
+                    "count": 6,
+                    "value": "Norwid, Cyprian Kamil (1821-1883)"
+                },
+                {
+                    "count": 5,
+                    "value": "Brzozowski, Jacek (1951-2017)"
+                },
+                {
+                    "count": 5,
+                    "value": "Kutyna, Ignacy (1942- )"
+                },
+                {
+                    "count": 5,
+                    "value": "Malarski, Jan (?-1959)"
+                },
+                {
+                    "count": 5,
+                    "value": "Żarna, Krzysztof (1975- )"
+                },
+                {
+                    "count": 4,
+                    "value": "Berezowska, Maja (1898-1978)"
+                },
+                {
+                    "count": 4,
+                    "value": "Bełcikowski, Adam (1839-1909)"
+                },
+                {
+                    "count": 4,
+                    "value": "Buczek, Marta (1971- ) Autor"
+                },
+                {
+                    "count": 4,
+                    "value": "Bąk, Magdalena (filolog)"
+                },
+                {
+                    "count": 4,
+                    "value": "Chmielewski, Grzegorz (prawo)"
+                },
+                {
+                    "count": 4,
+                    "value": "Drabik, Wincenty (1881-1933)"
+                },
+                {
+                    "count": 4,
+                    "value": "Dworzecki, Jacek (1976- )"
+                },
+                {
+                    "count": 4,
+                    "value": "Figuš-Bystrý, Viliam (1875-1937)"
+                },
+                {
+                    "count": 4,
+                    "value": "Kosiński, Dariusz (1966- )"
+                },
+                {
+                    "count": 4,
+                    "value": "Lyszczyna, Jacek (1954- )"
+                },
+                {
+                    "count": 4,
+                    "value": "Maurer, Józef (1879-1926)"
+                },
+                {
+                    "count": 4,
+                    "value": "Mieczkowska, Halina (1950- )"
+                },
+                {
+                    "count": 4,
+                    "value": "Papierz, Maryla (1950- )"
+                },
+                {
+                    "count": 4,
+                    "value": "Sternklar, Leon (1866-1937)"
+                },
+                {
+                    "count": 4,
+                    "value": "Tarnowski, Stanisław (1837-1917)"
+                },
+                {
+                    "count": 3,
+                    "value": "Baczyński, Stanisław (1890-1939)"
+                },
+                {
+                    "count": 3,
+                    "value": "Bałucki, Michał (1837-1901)"
+                },
+                {
+                    "count": 3,
+                    "value": "Biegeleisen, Henryk (1855-1934)"
+                },
+                {
+                    "count": 3,
+                    "value": "Bober, Stanisław (1908-1990)"
+                },
+                {
+                    "count": 3,
+                    "value": "Bátorová, Mária (1950- )"
+                },
+                {
+                    "count": 3,
+                    "value": "Charzewski, J Kompozytor"
+                },
+                {
+                    "count": 3,
+                    "value": "Chlebowski, Bronisław (1846-1918)"
+                },
+                {
+                    "count": 3,
+                    "value": "Dąbrowska, Danuta (1952-2018)"
+                },
+                {
+                    "count": 3,
+                    "value": "Giller, Agaton (1831-1887)"
+                },
+                {
+                    "count": 3,
+                    "value": "Grzęda, Ewa"
+                },
+                {
+                    "count": 3,
+                    "value": "Hoffman, Karol (1855-1937)"
+                },
+                {
+                    "count": 3,
+                    "value": "Janik, Michał (1874-1948)"
+                },
+                {
+                    "count": 3,
+                    "value": "Mazanowski, Antoni (1858-1916)"
+                },
+                {
+                    "count": 3,
+                    "value": "Mazanowski, Mikołaj (1861-1944)"
+                },
+                {
+                    "count": 3,
+                    "value": "Piechota, Marek (1951- )"
+                },
+                {
+                    "count": 3,
+                    "value": "Poddębski, Henryk (1890-1945)"
+                },
+                {
+                    "count": 3,
+                    "value": "Rogacki, Henryk Izydor"
+                },
+                {
+                    "count": 3,
+                    "value": "Sieńko, Roman"
+                },
+                {
+                    "count": 3,
+                    "value": "Troszyński, Marek"
+                },
+                {
+                    "count": 2,
+                    "value": "Andrzejak-Nowara, Małgorzata Autor"
+                },
+                {
+                    "count": 2,
+                    "value": "Baczyńska, Beata (1963- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Bal, Agnieszka (1979- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Baniewicz, Elżbieta (1949- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Bauko, Ján (1970- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Bielska-Tworkowska, Leokadia (1901-1973)"
+                },
+                {
+                    "count": 2,
+                    "value": "Borowczyk, Jerzy (1968- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Brückner, Aleksander (1856-1939)"
+                },
+                {
+                    "count": 2,
+                    "value": "Bátorová, Mária (1950- ) Autor"
+                },
+                {
+                    "count": 2,
+                    "value": "Calderón de la Barca, Pedro (1600-1681)"
+                },
+                {
+                    "count": 2,
+                    "value": "Cehak, Adam (1871-1944)"
+                },
+                {
+                    "count": 2,
+                    "value": "Chacko, Magdalena"
+                },
+                {
+                    "count": 2,
+                    "value": "Chojecki, Edmund (1822-1899)"
+                },
+                {
+                    "count": 2,
+                    "value": "Ciechańska, Magdalena"
+                },
+                {
+                    "count": 2,
+                    "value": "Czarnotta, Zygmunt"
+                },
+                {
+                    "count": 2,
+                    "value": "Czyż-Rkein, Bożena"
+                },
+                {
+                    "count": 2,
+                    "value": "Dambek, Małgorzata (1984- ) Autor"
+                },
+                {
+                    "count": 2,
+                    "value": "Dlugoš, František (1955- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Dobrowolski, Piotr (1978- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Drozdowski, Adam (fotograf)"
+                },
+                {
+                    "count": 2,
+                    "value": "Dąbrowski, Roman (1961- ) Autor"
+                },
+                {
+                    "count": 2,
+                    "value": "Dłubak, Piotr (1964- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Fabianowski, Andrzej (1954- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Garabík, Radovan"
+                },
+                {
+                    "count": 2,
+                    "value": "Goszczyńska, Joanna (1948- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Gradkowski, Henryk"
+                },
+                {
+                    "count": 2,
+                    "value": "Greń, Zbigniew (1954- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Hertz, Paweł (1918-2001)"
+                },
+                {
+                    "count": 2,
+                    "value": "Heska-Kwaśniewicz, Krystyna (1940- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Hopwood, James (1795-post 1855)"
+                },
+                {
+                    "count": 2,
+                    "value": "Iwaszkiewicz, Jarosław (1894-1980)"
+                },
+                {
+                    "count": 2,
+                    "value": "Janaszek-Ivaničková, Halina (1931-2016)"
+                },
+                {
+                    "count": 2,
+                    "value": "Jarecki, Henryk (1846-1918) Kompozytor"
+                },
+                {
+                    "count": 2,
+                    "value": "Jarecki, Kazimierz (1878-1939)"
+                },
+                {
+                    "count": 2,
+                    "value": "Jałosiński, Aleksander (1931- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Kaźmierczak, Monika (filolog)"
+                },
+                {
+                    "count": 2,
+                    "value": "Kočan, Štefan (1958- )"
+                },
+                {
+                    "count": 2,
+                    "value": "Kukuła, Zygmunt"
+                }
+            ],
+            "content_of": [
+                {
+                    "count": 17,
+                    "value": "Kolekcja Zbigniewa Raszewskiego"
+                },
+                {
+                    "count": 4,
+                    "value": "Zbiory Mieczysława Orłowicza"
+                },
+                {
+                    "count": 3,
+                    "value": "Archiwum Jacka Kaczmarskiego"
+                },
+                {
+                    "count": 3,
+                    "value": "Horsztyński : dramat w pięciu aktach no:  30001006248763"
+                },
+                {
+                    "count": 2,
+                    "value": "Beniowski : poemat no: 30001005848090 48OMNIS_NLOP"
+                },
+                {
+                    "count": 2,
+                    "value": "Marya Stuart : drama historyczne w 5 aktach no: 30001017595399 48OMNIS_NLOP"
+                },
+                {
+                    "count": 2,
+                    "value": "Meander. - 1997, nr 2, s. 167-173."
+                },
+                {
+                    "count": 2,
+                    "value": "Meander. - R. 58, nr 5/6 (2003), s. 459-469."
+                },
+                {
+                    "count": 2,
+                    "value": "Mindowe król litewski : obraz historyczny w pięciu aktach no: 888a0341634 48OMNIS_NLOP"
+                },
+                {
+                    "count": 2,
+                    "value": "Noc świętojańska i kwiat paproci : wykład publiczny miany na korzyść Towarzystwa Osad Rolnych no: 30001002744177 48OMNIS_NLOP"
+                },
+                {
+                    "count": 2,
+                    "value": "Prace Polonistyczne. - Ser. 58, (2003), s. 51-60."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Neophilologica. [T.] 19, [nr] 1 (2017), s. 237-244 1509-1619."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Philologica. 0065-1524. Nr 51 (2017), s. 131-139"
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Philologica. Nr 50 (2017), s. 47-59 0065-1524."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Pneumonologica et Allergologica Pediatrica. Vol. 10, nr 1/2 (2007), s. 33-51 1506-2759."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Folia Litteraria Polonica. 2012, [nr] 4, s. 43-52 1505-9057."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Folia Litteraria Polonica. 2015, [nr] 1, s. 45-56 1505-9057."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Folia Litteraria Polonica. 2015, [nr] 1, s. 57-75 1505-9057."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Folia Litteraria Polonica. 2015, [nr] 1, s. 91-108 1505-9057."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Folia Litteraria Polonica. Z. 6 (2003), s. 145-160 1505-9057."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Folia Litteraria Polonica. [Z.] 10 (2008), s. 403-418 1505-9057."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Folia Litteraria Polonica. [Z.] 11 (2008), s. 375-391 1505-9057."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Folia Litteraria Polonica. [Z.] 12 (2009), s. 327-340 1505-9057."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Folia Litteraria Polonica. [Z.] 14, [cz. 2] (2011), s. 79-92 1505-9057."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Folia Litteraria Polonica. [Z.] 5 (2002), s. 61-76 1505-9057."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Folia Litteraria Polonica. [Z.] 7 t. 2 (2005), s. 295-310 1505-9057."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Folia Oeconomica. [Z.] 273 (2012), s. 47-60 0208-6018."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Kształcenie Polonistyczne Cudzoziemców. Z. 23 (2016), s. 181-189 0860-6587."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Kształcenie Polonistyczne Cudzoziemców. [Z.] 17 (2010), s. 449-455 0860-6587."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Lodziensis. Kształcenie Polonistyczne Cudzoziemców. [Z.] 21 (2014), s. 385-392 0860-6587."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Neerlandica Wratislaviensia. Nr 25 (2015), s. 243-262 0860-0716."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 40 (2002), s. 101-119 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 44 (2004), s. 267-281 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 44 (2004), s. 43-67 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 45 (2005), s. 245-263 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 45 (2005), s. 265-289 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 46 (2006), s. 39-57 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 47 (2007), s. 55-74 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 47 (2007), s. 75-90 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 47 (2007), s. 91-107 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 101-114 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 115-128 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 129-139 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 141-153 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 155-163 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 165-180 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 181-186 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 187-207 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 21-33 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 35-50 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 5-20 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 51-62 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 63-68 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 69-84 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 49 (2009), s. 85-99 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 50 (2010), s. 51-70 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 50 (2010), s. 71-86 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 51 (2011), s. 85-107 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 52 (2012), s. 5-19 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 53 (2013), s. 107-115 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 53 (2013), s. 129-141 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 56 (2016), s. 33-49 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Acta Universitatis Wratislaviensis. Prace Literackie. Nr 57 (2017), s. 117-128 0079-4767."
+                },
+                {
+                    "count": 1,
+                    "value": "Akcent (Lublin). R. 40, nr 2 (2019), s. 94-97 0208-6220."
+                },
+                {
+                    "count": 1,
+                    "value": "Almanach Czeski. [Nr] 1 (2006), s. 61-65 1897-2314."
+                },
+                {
+                    "count": 1,
+                    "value": "Almanach Czeski. [Nr] 1 (2006), s. 67-75 1897-2314."
+                },
+                {
+                    "count": 1,
+                    "value": "Almanach Nowotarski : rocznik społeczno-kulturalny. Nr 20 (2016), s. 211-224 1429-1517."
+                },
+                {
+                    "count": 1,
+                    "value": "Annales Paedagogicae Nova Sandes - Presoves. [T.] 6 (2015), s. 61-68 1899-301X."
+                },
+                {
+                    "count": 1,
+                    "value": "Annales Universitatis Mariae Curie-Skłodowska. Sectio FF, Philologiae. Vol. 20/21 (2002/2003), s. 387-396 0239-426X."
+                },
+                {
+                    "count": 1,
+                    "value": "Annales Universitatis Mariae Curie-Skłodowska. Sectio FF, Philologiae. Vol. 20/21 (2002/2003), s. 397-411 0239-426X."
+                },
+                {
+                    "count": 1,
+                    "value": "Annales Universitatis Mariae Curie-Skłodowska. Sectio FF, Philologiae. Vol. 30, [z.] 1 (2012), s. 27-43 0239-426X."
+                },
+                {
+                    "count": 1,
+                    "value": "Annales Universitatis Mariae Curie-Skłodowska. Sectio FF, Philologiae. Vol. 33 (2015), s. 215-228 0239-426X."
+                },
+                {
+                    "count": 1,
+                    "value": "Annales Universitatis Mariae Curie-Skłodowska. Sectio FF, Philologiae. Vol. 35, [nr] 1 (2017), s. 21-34 0239-426X."
+                },
+                {
+                    "count": 1,
+                    "value": "Annales Universitatis Mariae Curie-Skłodowska. Sectio K, Politologia. Vol. 11 (2004), s. 113-130 1428-9512."
+                },
+                {
+                    "count": 1,
+                    "value": "Annales Universitatis Mariae Curie-Skłodowska. Sectio K, Politologia. Vol. 26, [z.] 1 (2019), s. 107-126 1428-9512"
+                },
+                {
+                    "count": 1,
+                    "value": "Annales Universitatis Mariae Curie-Skłodowska. Sectio L, Artes. Vol. 13, [z.] 1 (2015), s. 69-87 1732-1352."
+                },
+                {
+                    "count": 1,
+                    "value": "Architektura Krajobrazu : studia i prezentacje. 2010, nr 4, s. 11-18 1641-5159."
+                },
+                {
+                    "count": 1,
+                    "value": "Archiwum Agnieszki Osieckiej"
+                },
+                {
+                    "count": 1,
+                    "value": "Archiwum Czesława Miłosza"
+                },
+                {
+                    "count": 1,
+                    "value": "Archiwum Emigracji : studia, szkice, dokumenty. 2009, z. 1, s. 30-33 2084-3550."
+                },
+                {
+                    "count": 1,
+                    "value": "Archiwum Historii Filozofii i Myśli Społecznej. T. 54 (2009), s. 53-67 0066-6874."
+                },
+                {
+                    "count": 1,
+                    "value": "Archiwum Odlewnictwa. 1642-5308. R. 6, nr 20 (2006), s. 203-210"
+                },
+                {
+                    "count": 1,
+                    "value": "Archiwum Wacława Sieroszewskiego"
+                },
+                {
+                    "count": 1,
+                    "value": "Archiwum Zenona Przesmyckiego"
+                },
+                {
+                    "count": 1,
+                    "value": "Ars inter Culturas. Nr 4 (2015), s. 63-76 2083-1226."
+                },
+                {
+                    "count": 1,
+                    "value": "Ars inter Culturas. Nr 6 (2017), s. 267-285 2083-1226."
+                },
+                {
+                    "count": 1,
+                    "value": "Ars inter Culturas. Nr 6 (2017), s. 323-325 2083-1226."
+                },
+                {
+                    "count": 1,
+                    "value": "Arteria : pismo Katedry Sztuki Wydziału Nauczycielskiego Politechniki Radomskiej. Nr 13 (2015), s. 97-100 1895-5827."
+                },
+                {
+                    "count": 1,
+                    "value": "Artes Liberales : zeszyty naukowe Wyższej Szkoły Humanistycznej imienia Aleksandra Gieysztora. 2010, nr 1/2, s. 185-191 1734-5707."
+                },
+                {
+                    "count": 1,
+                    "value": "Aspekty Muzyki : AM. T. 1 (2011), s. 35-46 2082-6044."
+                },
+                {
+                    "count": 1,
+                    "value": "Aspiracje : kwartalnik Akademii Sztuk Pięknych w Warszawie. 2014, [nr] 3, s. 16-19 1732-6125."
+                },
+                {
+                    "count": 1,
+                    "value": "Aspiracje : kwartalnik Akademii Sztuk Pięknych w Warszawie. Jesień (2012), s. 24-27 1732-6125."
+                },
+                {
+                    "count": 1,
+                    "value": "Aspiracje : kwartalnik Akademii Sztuk Pięknych w Warszawie. Lato (2010), s. 2-7 1732-6125."
+                },
+                {
+                    "count": 1,
+                    "value": "Ateneum Kapłańskie. T. 148, z. 2 (2007), s. 278-289 0208-9041."
+                },
+                {
+                    "count": 1,
+                    "value": "Athenaeum (Toruń). Vol. 20 (2008), s. 77-88 1505-2192."
+                },
+                {
+                    "count": 1,
+                    "value": "Athenaeum (Toruń). Vol. 50 (2016), s. 158-174 1505-2192."
+                },
+                {
+                    "count": 1,
+                    "value": "Autoportret : pismo o dobrej przestrzeni. 2015, nr 4, s. 82-85 1730-3613."
+                },
+                {
+                    "count": 1,
+                    "value": "Autoportret : pismo o dobrej przestrzeni. 2017, nr 2, s. 58-61 1730-3613."
+                },
+                {
+                    "count": 1,
+                    "value": "Autoportret : pismo o dobrej przestrzeni. 2017, nr 2, s. 62-67 1730-3613."
+                }
+            ],
+            "date_histogram": [
+                {
+                    "count": 322,
+                    "value": "1906-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 287,
+                    "value": "1899-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 269,
+                    "value": "1902-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 267,
+                    "value": "1898-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 230,
+                    "value": "1946-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 181,
+                    "value": "1900-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 156,
+                    "value": "1909-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 153,
+                    "value": "1901-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 152,
+                    "value": "1907-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 151,
+                    "value": "1903-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 147,
+                    "value": "1947-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 142,
+                    "value": "1897-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 122,
+                    "value": "2017-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 118,
+                    "value": "1904-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 114,
+                    "value": "1895-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 112,
+                    "value": "2009-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 111,
+                    "value": "2015-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 106,
+                    "value": "1945-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 99,
+                    "value": "2016-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 84,
+                    "value": "1927-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 63,
+                    "value": "2012-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 59,
+                    "value": "2011-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 59,
+                    "value": "2013-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 57,
+                    "value": "1905-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 56,
+                    "value": "1920-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 55,
+                    "value": "1930-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 55,
+                    "value": "2010-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 54,
+                    "value": "1910-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 54,
+                    "value": "1948-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 51,
+                    "value": "1908-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 46,
+                    "value": "1911-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 43,
+                    "value": "1924-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 40,
+                    "value": "2005-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 40,
+                    "value": "2007-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 39,
+                    "value": "1922-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 38,
+                    "value": "2014-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 37,
+                    "value": "1894-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 35,
+                    "value": "2004-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 34,
+                    "value": "1925-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 34,
+                    "value": "2018-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 33,
+                    "value": "1918-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 33,
+                    "value": "2003-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 33,
+                    "value": "2006-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 29,
+                    "value": "1923-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 29,
+                    "value": "2002-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 28,
+                    "value": "1926-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 25,
+                    "value": "1928-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 25,
+                    "value": "1939-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 23,
+                    "value": "1921-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 22,
+                    "value": "1916-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 21,
+                    "value": "1876-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 20,
+                    "value": "1879-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 20,
+                    "value": "1915-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 20,
+                    "value": "1931-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 20,
+                    "value": "2008-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 18,
+                    "value": "1929-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 17,
+                    "value": "1880-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 17,
+                    "value": "1917-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 17,
+                    "value": "1932-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 17,
+                    "value": "1958-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 16,
+                    "value": "1867-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 16,
+                    "value": "1914-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 16,
+                    "value": "1933-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 15,
+                    "value": "1881-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 15,
+                    "value": "1919-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 15,
+                    "value": "1935-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 15,
+                    "value": "1959-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 14,
+                    "value": "1869-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 14,
+                    "value": "1989-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 13,
+                    "value": "1882-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 13,
+                    "value": "1938-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 12,
+                    "value": "1861-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 12,
+                    "value": "1884-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 12,
+                    "value": "1936-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 11,
+                    "value": "1870-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 11,
+                    "value": "1892-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 11,
+                    "value": "1912-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 11,
+                    "value": "1913-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 11,
+                    "value": "1934-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 11,
+                    "value": "2019-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 10,
+                    "value": "1893-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 10,
+                    "value": "1949-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 9,
+                    "value": "1885-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 8,
+                    "value": "1873-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 8,
+                    "value": "1875-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 8,
+                    "value": "1937-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 8,
+                    "value": "1956-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 8,
+                    "value": "1962-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 7,
+                    "value": "1839-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 7,
+                    "value": "1883-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 7,
+                    "value": "1888-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 7,
+                    "value": "1950-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 6,
+                    "value": "1847-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 6,
+                    "value": "1848-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 6,
+                    "value": "1878-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 6,
+                    "value": "1896-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 6,
+                    "value": "1974-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1801-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1826-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1841-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1862-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1866-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1868-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1874-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1877-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1887-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1943-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1944-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1951-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1964-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 5,
+                    "value": "1981-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 4,
+                    "value": "1832-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 4,
+                    "value": "1833-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 4,
+                    "value": "1840-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 4,
+                    "value": "1844-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 4,
+                    "value": "1855-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 4,
+                    "value": "1891-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 4,
+                    "value": "1979-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 4,
+                    "value": "1990-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 4,
+                    "value": "1998-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1830-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1834-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1838-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1849-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1852-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1857-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1859-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1860-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1871-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1872-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1886-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1889-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1941-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1955-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1965-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1975-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1978-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1985-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 3,
+                    "value": "1993-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1586-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1831-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1843-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1845-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1846-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1850-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1864-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1890-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1942-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1953-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1954-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1966-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1969-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1972-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1983-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1997-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "1999-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "2000-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 2,
+                    "value": "2001-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1623-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1799-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1800-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1808-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1809-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1810-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1811-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1813-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1818-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1820-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1824-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1829-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1835-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1853-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1865-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1940-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1960-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1961-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1963-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1967-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1968-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1970-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1973-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1976-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1977-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1980-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1982-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1984-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1986-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1987-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1988-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1991-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1992-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1994-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1995-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 1,
+                    "value": "1996-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1587-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1588-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1589-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1590-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1591-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1592-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1593-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1594-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1595-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1596-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1597-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1598-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1599-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1600-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1601-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1602-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1603-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1604-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1605-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1606-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1607-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1608-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1609-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1610-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1611-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1612-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1613-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1614-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1615-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1616-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1617-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1618-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1619-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1620-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1621-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1622-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1624-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1625-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1626-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1627-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1628-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1629-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1630-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1631-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1632-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1633-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1634-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1635-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1636-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1637-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1638-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1639-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1640-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1641-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1642-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1643-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1644-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1645-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1646-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1647-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1648-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1649-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1650-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1651-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1652-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1653-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1654-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1655-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1656-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1657-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1658-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1659-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1660-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1661-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1662-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1663-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1664-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1665-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1666-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1667-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1668-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1669-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1670-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1671-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1672-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1673-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1674-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1675-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1676-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1677-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1678-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1679-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1680-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1681-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1682-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1683-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1684-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1685-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1686-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1687-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1688-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1689-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1690-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1691-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1692-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1693-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1694-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1695-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1696-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1697-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1698-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1699-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1700-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1701-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1702-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1703-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1704-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1705-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1706-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1707-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1708-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1709-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1710-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1711-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1712-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1713-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1714-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1715-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1716-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1717-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1718-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1719-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1720-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1721-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1722-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1723-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1724-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1725-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1726-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1727-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1728-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1729-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1730-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1731-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1732-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1733-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1734-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1735-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1736-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1737-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1738-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1739-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1740-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1741-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1742-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1743-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1744-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1745-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1746-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1747-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1748-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1749-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1750-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1751-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1752-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1753-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1754-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1755-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1756-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1757-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1758-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1759-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1760-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1761-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1762-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1763-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1764-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1765-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1766-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1767-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1768-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1769-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1770-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1771-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1772-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1773-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1774-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1775-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1776-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1777-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1778-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1779-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1780-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1781-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1782-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1783-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1784-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1785-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1786-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1787-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1788-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1789-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1790-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1791-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1792-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1793-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1794-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1795-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1796-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1797-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1798-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1802-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1803-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1804-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1805-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1806-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1807-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1812-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1814-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1815-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1816-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1817-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1819-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1821-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1822-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1823-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1825-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1827-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1828-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1836-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1837-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1842-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1851-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1854-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1856-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1858-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1863-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1952-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1957-01-01T00:00:00+00:00"
+                },
+                {
+                    "count": 0,
+                    "value": "1971-01-01T00:00:00+00:00"
+                }
+            ],
+            "audience_group": [
+                {
+                    "count": 1,
+                    "value": "Poziom nauczania: Szkoły średnie"
+                }
+            ],
+            "frequency": [],
+            "publish_place": [
+                {
+                    "count": 2724,
+                    "value": "Kraków"
+                },
+                {
+                    "count": 416,
+                    "value": "Warszawa"
+                },
+                {
+                    "count": 243,
+                    "value": "Lwów"
+                },
+                {
+                    "count": 43,
+                    "value": "Paryż"
+                },
+                {
+                    "count": 38,
+                    "value": "Poznań"
+                },
+                {
+                    "count": 35,
+                    "value": "Jarosław"
+                },
+                {
+                    "count": 28,
+                    "value": "Lipsk"
+                },
+                {
+                    "count": 28,
+                    "value": "Wilno"
+                },
+                {
+                    "count": 24,
+                    "value": "Złoczów"
+                },
+                {
+                    "count": 23,
+                    "value": "Krakow"
+                },
+                {
+                    "count": 22,
+                    "value": "Miejsce nieznane"
+                },
+                {
+                    "count": 22,
+                    "value": "Rzeszów"
+                },
+                {
+                    "count": 21,
+                    "value": "Wrocław"
+                },
+                {
+                    "count": 19,
+                    "value": "Paris"
+                },
+                {
+                    "count": 17,
+                    "value": "Lublin"
+                },
+                {
+                    "count": 17,
+                    "value": "Lwów ; Złoczów"
+                },
+                {
+                    "count": 16,
+                    "value": "Łódź"
+                },
+                {
+                    "count": 13,
+                    "value": "Przemyśl"
+                },
+                {
+                    "count": 13,
+                    "value": "Stanisławów"
+                },
+                {
+                    "count": 13,
+                    "value": "Łuck"
+                },
+                {
+                    "count": 12,
+                    "value": "Katowice"
+                },
+                {
+                    "count": 12,
+                    "value": "Warszawa : Kraków"
+                },
+                {
+                    "count": 10,
+                    "value": "Kraków : Warszawa"
+                },
+                {
+                    "count": 10,
+                    "value": "Olsztyn"
+                },
+                {
+                    "count": 10,
+                    "value": "Tarnów"
+                },
+                {
+                    "count": 9,
+                    "value": "Gdynia"
+                },
+                {
+                    "count": 9,
+                    "value": "Praha"
+                },
+                {
+                    "count": 9,
+                    "value": "W Warszawie"
+                },
+                {
+                    "count": 8,
+                    "value": "Bydgoszcz"
+                },
+                {
+                    "count": 8,
+                    "value": "Warsaw"
+                },
+                {
+                    "count": 7,
+                    "value": "Mikołów"
+                },
+                {
+                    "count": 7,
+                    "value": "Naumburg"
+                },
+                {
+                    "count": 6,
+                    "value": ""
+                },
+                {
+                    "count": 6,
+                    "value": "Cracovie"
+                },
+                {
+                    "count": 6,
+                    "value": "Częstochowa"
+                },
+                {
+                    "count": 6,
+                    "value": "Krzemieniec"
+                },
+                {
+                    "count": 6,
+                    "value": "Mikołów, G. Śl"
+                },
+                {
+                    "count": 6,
+                    "value": "Sosnowiec"
+                },
+                {
+                    "count": 6,
+                    "value": "Toruń"
+                },
+                {
+                    "count": 6,
+                    "value": "Zakopane"
+                },
+                {
+                    "count": 5,
+                    "value": "Chicago"
+                },
+                {
+                    "count": 5,
+                    "value": "Gdańsk"
+                },
+                {
+                    "count": 5,
+                    "value": "Koszalin"
+                },
+                {
+                    "count": 5,
+                    "value": "We Lwowie"
+                },
+                {
+                    "count": 5,
+                    "value": "Wiedeń"
+                },
+                {
+                    "count": 4,
+                    "value": "Polska"
+                },
+                {
+                    "count": 4,
+                    "value": "W Krakowie"
+                },
+                {
+                    "count": 3,
+                    "value": "Białystok"
+                },
+                {
+                    "count": 3,
+                    "value": "Bratislava"
+                },
+                {
+                    "count": 3,
+                    "value": "Brody"
+                },
+                {
+                    "count": 3,
+                    "value": "Budapeszt"
+                },
+                {
+                    "count": 3,
+                    "value": "Kraków ; Warszawa"
+                },
+                {
+                    "count": 3,
+                    "value": "Moskwa"
+                },
+                {
+                    "count": 3,
+                    "value": "Petersburg"
+                },
+                {
+                    "count": 3,
+                    "value": "Sopot"
+                },
+                {
+                    "count": 3,
+                    "value": "Szkocja"
+                },
+                {
+                    "count": 3,
+                    "value": "Turcianský Sv. Martin"
+                },
+                {
+                    "count": 3,
+                    "value": "Varsovie"
+                },
+                {
+                    "count": 3,
+                    "value": "Warszawa ; Kraków"
+                },
+                {
+                    "count": 2,
+                    "value": "Banská Bystrica"
+                },
+                {
+                    "count": 2,
+                    "value": "Bochnia"
+                },
+                {
+                    "count": 2,
+                    "value": "Brody ; Lwów"
+                },
+                {
+                    "count": 2,
+                    "value": "Brzeżany"
+                },
+                {
+                    "count": 2,
+                    "value": "Cieszyn"
+                },
+                {
+                    "count": 2,
+                    "value": "Edinburgh"
+                },
+                {
+                    "count": 2,
+                    "value": "Ełk"
+                },
+                {
+                    "count": 2,
+                    "value": "Grudziądz"
+                },
+                {
+                    "count": 2,
+                    "value": "Hanower"
+                },
+                {
+                    "count": 2,
+                    "value": "Kraków ; Wrocław"
+                },
+                {
+                    "count": 2,
+                    "value": "Leipzig : Londres"
+                },
+                {
+                    "count": 2,
+                    "value": "Lwów : Warszawa"
+                },
+                {
+                    "count": 2,
+                    "value": "Moskva"
+                },
+                {
+                    "count": 2,
+                    "value": "Parizo"
+                },
+                {
+                    "count": 2,
+                    "value": "Paryż : Lipsk"
+                },
+                {
+                    "count": 2,
+                    "value": "Piotrków]"
+                },
+                {
+                    "count": 2,
+                    "value": "Polska]"
+                },
+                {
+                    "count": 2,
+                    "value": "Poznan"
+                },
+                {
+                    "count": 2,
+                    "value": "Przemyśl]"
+                },
+                {
+                    "count": 2,
+                    "value": "Roma"
+                },
+                {
+                    "count": 2,
+                    "value": "Siedlce"
+                },
+                {
+                    "count": 2,
+                    "value": "Starogard Gdański"
+                },
+                {
+                    "count": 2,
+                    "value": "Tczew"
+                },
+                {
+                    "count": 2,
+                    "value": "Vilnah"
+                },
+                {
+                    "count": 2,
+                    "value": "Wrocław [etc"
+                },
+                {
+                    "count": 2,
+                    "value": "Zabrze"
+                },
+                {
+                    "count": 2,
+                    "value": "s.l"
+                },
+                {
+                    "count": 2,
+                    "value": "Świecie]"
+                },
+                {
+                    "count": 1,
+                    "value": "Banska Bystrica"
+                },
+                {
+                    "count": 1,
+                    "value": "Białystok : Warszawa"
+                },
+                {
+                    "count": 1,
+                    "value": "Bielsko-Biała"
+                },
+                {
+                    "count": 1,
+                    "value": "Breslau"
+                },
+                {
+                    "count": 1,
+                    "value": "Brno"
+                },
+                {
+                    "count": 1,
+                    "value": "Brześć nad Bugiem"
+                },
+                {
+                    "count": 1,
+                    "value": "Bytom"
+                },
+                {
+                    "count": 1,
+                    "value": "Chodzież"
+                },
+                {
+                    "count": 1,
+                    "value": "Chojny"
+                },
+                {
+                    "count": 1,
+                    "value": "Czerniowce"
+                },
+                {
+                    "count": 1,
+                    "value": "Dąbrowa"
+                },
+                {
+                    "count": 1,
+                    "value": "Elbląg"
+                }
+            ],
+            "metatype": [
+                {
+                    "count": 2442,
+                    "value": "afisz teatralny"
+                },
+                {
+                    "count": 406,
+                    "value": "poezja polska"
+                },
+                {
+                    "count": 311,
+                    "value": "dramat polski"
+                },
+                {
+                    "count": 179,
+                    "value": "odbitka na papierze srebrowo-żelatynowym"
+                },
+                {
+                    "count": 176,
+                    "value": "artykuł z czasopisma naukowego"
+                },
+                {
+                    "count": 155,
+                    "value": "artykuł problemowy"
+                },
+                {
+                    "count": 127,
+                    "value": "pocztówka"
+                },
+                {
+                    "count": 120,
+                    "value": "fotografia polska"
+                },
+                {
+                    "count": 117,
+                    "value": "program teatralny"
+                },
+                {
+                    "count": 107,
+                    "value": "afisz"
+                },
+                {
+                    "count": 81,
+                    "value": "artykuł z czasopisma filologicznego"
+                },
+                {
+                    "count": 70,
+                    "value": "biografia"
+                },
+                {
+                    "count": 53,
+                    "value": "repertuar"
+                },
+                {
+                    "count": 50,
+                    "value": "afisz muzyczny"
+                },
+                {
+                    "count": 49,
+                    "value": "afisze"
+                },
+                {
+                    "count": 47,
+                    "value": "nadbitki i odbitki"
+                },
+                {
+                    "count": 46,
+                    "value": "portrety"
+                },
+                {
+                    "count": 46,
+                    "value": "programy teatralne"
+                },
+                {
+                    "count": 39,
+                    "value": "fotografia"
+                },
+                {
+                    "count": 36,
+                    "value": "listy polskie"
+                },
+                {
+                    "count": 33,
+                    "value": "recenzja."
+                },
+                {
+                    "count": 32,
+                    "value": "pocztówki"
+                },
+                {
+                    "count": 32,
+                    "value": "recenzja teatralna"
+                },
+                {
+                    "count": 27,
+                    "value": "publicystyka polska"
+                },
+                {
+                    "count": 26,
+                    "value": "artykuł z czasopisma literackiego"
+                },
+                {
+                    "count": 25,
+                    "value": "fotografia teatralna"
+                },
+                {
+                    "count": 23,
+                    "value": "biografie"
+                },
+                {
+                    "count": 21,
+                    "value": "rysunek polski"
+                },
+                {
+                    "count": 20,
+                    "value": "rękopis"
+                },
+                {
+                    "count": 19,
+                    "value": "artykuł z czasopisma historycznego"
+                },
+                {
+                    "count": 18,
+                    "value": "artykuł z czasopisma kulturalnego"
+                },
+                {
+                    "count": 17,
+                    "value": "dramat (gatunek literacki)"
+                },
+                {
+                    "count": 16,
+                    "value": "akwarela"
+                },
+                {
+                    "count": 16,
+                    "value": "druki ulotne"
+                },
+                {
+                    "count": 16,
+                    "value": "literatura polska"
+                },
+                {
+                    "count": 14,
+                    "value": "rękopisy polskie"
+                },
+                {
+                    "count": 13,
+                    "value": "artykuł z czasopisma o sztuce"
+                },
+                {
+                    "count": 13,
+                    "value": "recenzja naukowa"
+                },
+                {
+                    "count": 12,
+                    "value": "artykuł z czasopisma bibliotekarskiego"
+                },
+                {
+                    "count": 11,
+                    "value": "artykuł z czasopisma teatralnego"
+                },
+                {
+                    "count": 10,
+                    "value": "bibliografia"
+                },
+                {
+                    "count": 10,
+                    "value": "czasopismo polskie"
+                },
+                {
+                    "count": 10,
+                    "value": "zaproszenie"
+                },
+                {
+                    "count": 9,
+                    "value": "artykuł z czasopisma społeczno-kulturalnego"
+                },
+                {
+                    "count": 9,
+                    "value": "grafika polska"
+                },
+                {
+                    "count": 9,
+                    "value": "malarstwo polskie"
+                },
+                {
+                    "count": 9,
+                    "value": "materiały konferencyjne"
+                },
+                {
+                    "count": 8,
+                    "value": "artykuł publicystyczny"
+                },
+                {
+                    "count": 8,
+                    "value": "artykuł z czasopisma prawniczego"
+                },
+                {
+                    "count": 8,
+                    "value": "esej"
+                },
+                {
+                    "count": 8,
+                    "value": "felieton polski"
+                },
+                {
+                    "count": 8,
+                    "value": "fotografia reprodukcyjna"
+                },
+                {
+                    "count": 8,
+                    "value": "mowy polskie"
+                },
+                {
+                    "count": 8,
+                    "value": "partytura"
+                },
+                {
+                    "count": 8,
+                    "value": "poemat"
+                },
+                {
+                    "count": 8,
+                    "value": "wiersze"
+                },
+                {
+                    "count": 7,
+                    "value": "artykuł monograficzny"
+                },
+                {
+                    "count": 7,
+                    "value": "artykuł z czasopisma politologicznego"
+                },
+                {
+                    "count": 7,
+                    "value": "muzyka wokalna"
+                },
+                {
+                    "count": 7,
+                    "value": "opera"
+                },
+                {
+                    "count": 6,
+                    "value": "artykuł z czasopisma bibliologicznego"
+                },
+                {
+                    "count": 6,
+                    "value": "odbitka na papierze albuminowym"
+                },
+                {
+                    "count": 6,
+                    "value": "poezja grecka"
+                },
+                {
+                    "count": 6,
+                    "value": "program imprezy"
+                },
+                {
+                    "count": 6,
+                    "value": "recenzja literacka"
+                },
+                {
+                    "count": 6,
+                    "value": "rysunek kredką"
+                },
+                {
+                    "count": 6,
+                    "value": "rękopisy muzyczne"
+                },
+                {
+                    "count": 5,
+                    "value": "artykuł z czasopisma muzycznego"
+                },
+                {
+                    "count": 5,
+                    "value": "artykuł z czasopisma teologicznego"
+                },
+                {
+                    "count": 5,
+                    "value": "czasopismo społeczno-kulturalne"
+                },
+                {
+                    "count": 5,
+                    "value": "drzeworyt"
+                },
+                {
+                    "count": 5,
+                    "value": "fotografia gabinetowa"
+                },
+                {
+                    "count": 5,
+                    "value": "pamiętniki polskie"
+                },
+                {
+                    "count": 5,
+                    "value": "powieść poetycka"
+                },
+                {
+                    "count": 5,
+                    "value": "sprawozdanie z konferencji"
+                },
+                {
+                    "count": 5,
+                    "value": "wywiad dziennikarski"
+                },
+                {
+                    "count": 4,
+                    "value": "artykuł z czasopisma ekonomicznego"
+                },
+                {
+                    "count": 4,
+                    "value": "artykuł z czasopisma pedagogicznego"
+                },
+                {
+                    "count": 4,
+                    "value": "czasopismo przyrodnicze"
+                },
+                {
+                    "count": 4,
+                    "value": "dane statystyczne"
+                },
+                {
+                    "count": 4,
+                    "value": "dedykacje"
+                },
+                {
+                    "count": 4,
+                    "value": "fotografia krajoznawcza"
+                },
+                {
+                    "count": 4,
+                    "value": "fotografia wizytowa"
+                },
+                {
+                    "count": 4,
+                    "value": "ilustracje"
+                },
+                {
+                    "count": 4,
+                    "value": "księga pamiątkowa"
+                },
+                {
+                    "count": 4,
+                    "value": "muzyka na fortepian"
+                },
+                {
+                    "count": 4,
+                    "value": "nekrolog"
+                },
+                {
+                    "count": 4,
+                    "value": "pieśń (głos i fortepian)"
+                },
+                {
+                    "count": 4,
+                    "value": "poezja okolicznościowa polska"
+                },
+                {
+                    "count": 4,
+                    "value": "powieść polska"
+                },
+                {
+                    "count": 4,
+                    "value": "raport z badań"
+                },
+                {
+                    "count": 4,
+                    "value": "rysunek długopisem"
+                },
+                {
+                    "count": 4,
+                    "value": "rysunek tuszem"
+                },
+                {
+                    "count": 4,
+                    "value": "satyra polska"
+                },
+                {
+                    "count": 3,
+                    "value": "aforyzmy"
+                },
+                {
+                    "count": 3,
+                    "value": "albumy"
+                },
+                {
+                    "count": 3,
+                    "value": "aranżacja i transkrypcja"
+                },
+                {
+                    "count": 3,
+                    "value": "artykuł z czasopisma fachowego"
+                },
+                {
+                    "count": 3,
+                    "value": "artykuł z czasopisma filmowego"
+                }
+            ],
+            "subject_time": [
+                {
+                    "count": 1725,
+                    "value": "1801-1900"
+                },
+                {
+                    "count": 100,
+                    "value": "2001-"
+                },
+                {
+                    "count": 38,
+                    "value": "1901-2000"
+                },
+                {
+                    "count": 18,
+                    "value": "1927"
+                },
+                {
+                    "count": 13,
+                    "value": "1948"
+                },
+                {
+                    "count": 13,
+                    "value": "2016"
+                },
+                {
+                    "count": 12,
+                    "value": "1947"
+                },
+                {
+                    "count": 11,
+                    "value": "2017"
+                },
+                {
+                    "count": 7,
+                    "value": "1945 - 1989"
+                },
+                {
+                    "count": 6,
+                    "value": "1901 - 2000"
+                },
+                {
+                    "count": 6,
+                    "value": "1946"
+                },
+                {
+                    "count": 5,
+                    "value": "1845 - 1849"
+                },
+                {
+                    "count": 5,
+                    "value": "2015"
+                },
+                {
+                    "count": 4,
+                    "value": "1801 - 1900"
+                },
+                {
+                    "count": 4,
+                    "value": "1801 - 1945"
+                },
+                {
+                    "count": 4,
+                    "value": "1809 - 1849"
+                },
+                {
+                    "count": 4,
+                    "value": "2001 - 2017"
+                },
+                {
+                    "count": 3,
+                    "value": "1768 - 1772"
+                },
+                {
+                    "count": 3,
+                    "value": "1829 - 1849"
+                },
+                {
+                    "count": 3,
+                    "value": "1860 - 1897"
+                },
+                {
+                    "count": 3,
+                    "value": "1914"
+                },
+                {
+                    "count": 3,
+                    "value": "1918 - 1939"
+                },
+                {
+                    "count": 3,
+                    "value": "1935"
+                },
+                {
+                    "count": 3,
+                    "value": "1939"
+                },
+                {
+                    "count": 3,
+                    "value": "1989 - 2017"
+                },
+                {
+                    "count": 2,
+                    "value": "1601-1700"
+                },
+                {
+                    "count": 2,
+                    "value": "1701-1800"
+                },
+                {
+                    "count": 2,
+                    "value": "1801 - 2000"
+                },
+                {
+                    "count": 2,
+                    "value": "1801 - 2016"
+                },
+                {
+                    "count": 2,
+                    "value": "1836 - 1837"
+                },
+                {
+                    "count": 2,
+                    "value": "1838"
+                },
+                {
+                    "count": 2,
+                    "value": "1840 - 1845"
+                },
+                {
+                    "count": 2,
+                    "value": "1841"
+                },
+                {
+                    "count": 2,
+                    "value": "1844 - 1849"
+                },
+                {
+                    "count": 2,
+                    "value": "1890 - 1891"
+                },
+                {
+                    "count": 2,
+                    "value": "1899"
+                },
+                {
+                    "count": 2,
+                    "value": "1900 - 1905"
+                },
+                {
+                    "count": 2,
+                    "value": "1905"
+                },
+                {
+                    "count": 2,
+                    "value": "1908"
+                },
+                {
+                    "count": 2,
+                    "value": "1909"
+                },
+                {
+                    "count": 2,
+                    "value": "1910"
+                },
+                {
+                    "count": 2,
+                    "value": "1918-1939"
+                },
+                {
+                    "count": 2,
+                    "value": "1929"
+                },
+                {
+                    "count": 2,
+                    "value": "1933"
+                },
+                {
+                    "count": 2,
+                    "value": "1938"
+                },
+                {
+                    "count": 2,
+                    "value": "1945 - 2016"
+                },
+                {
+                    "count": 2,
+                    "value": "19461231"
+                },
+                {
+                    "count": 2,
+                    "value": "19470105 - 19470111"
+                },
+                {
+                    "count": 2,
+                    "value": "19470325 - 19470326"
+                },
+                {
+                    "count": 2,
+                    "value": "19480501 - 19480508"
+                },
+                {
+                    "count": 2,
+                    "value": "1952 - 2017"
+                },
+                {
+                    "count": 2,
+                    "value": "2001 - 2016"
+                },
+                {
+                    "count": 2,
+                    "value": "2004 - 2016"
+                },
+                {
+                    "count": 2,
+                    "value": "2005 - 2016"
+                },
+                {
+                    "count": 2,
+                    "value": "2010"
+                },
+                {
+                    "count": 2,
+                    "value": "2012"
+                },
+                {
+                    "count": 1,
+                    "value": "1301 - 2016"
+                },
+                {
+                    "count": 1,
+                    "value": "1308 - 2016"
+                },
+                {
+                    "count": 1,
+                    "value": "1566 - 1567"
+                },
+                {
+                    "count": 1,
+                    "value": "1601 - 1920"
+                },
+                {
+                    "count": 1,
+                    "value": "1617 - 1677"
+                },
+                {
+                    "count": 1,
+                    "value": "1708 - 1709"
+                },
+                {
+                    "count": 1,
+                    "value": "1768"
+                },
+                {
+                    "count": 1,
+                    "value": "1773 - 1814"
+                },
+                {
+                    "count": 1,
+                    "value": "1774 - 1949"
+                },
+                {
+                    "count": 1,
+                    "value": "1790 - 1849"
+                },
+                {
+                    "count": 1,
+                    "value": "1801 - 1859"
+                },
+                {
+                    "count": 1,
+                    "value": "1801 - 1939"
+                },
+                {
+                    "count": 1,
+                    "value": "1806 - 1814"
+                },
+                {
+                    "count": 1,
+                    "value": "1809 - 1861"
+                },
+                {
+                    "count": 1,
+                    "value": "1809 - 1969"
+                },
+                {
+                    "count": 1,
+                    "value": "1809 - 2017"
+                },
+                {
+                    "count": 1,
+                    "value": "1811 - 1880"
+                },
+                {
+                    "count": 1,
+                    "value": "1819 - 1896"
+                },
+                {
+                    "count": 1,
+                    "value": "1824 - 1852"
+                },
+                {
+                    "count": 1,
+                    "value": "1827 - 1849"
+                },
+                {
+                    "count": 1,
+                    "value": "1830 - 1849"
+                },
+                {
+                    "count": 1,
+                    "value": "1830 - 1880"
+                },
+                {
+                    "count": 1,
+                    "value": "1830 - 1914"
+                },
+                {
+                    "count": 1,
+                    "value": "1830 - 2016"
+                },
+                {
+                    "count": 1,
+                    "value": "1831 - 1848"
+                },
+                {
+                    "count": 1,
+                    "value": "1834 - 2000"
+                },
+                {
+                    "count": 1,
+                    "value": "1835 - 1838"
+                },
+                {
+                    "count": 1,
+                    "value": "1836"
+                },
+                {
+                    "count": 1,
+                    "value": "1837"
+                },
+                {
+                    "count": 1,
+                    "value": "1838 - 1841"
+                },
+                {
+                    "count": 1,
+                    "value": "1840"
+                },
+                {
+                    "count": 1,
+                    "value": "1841 - 1844"
+                },
+                {
+                    "count": 1,
+                    "value": "1841 - 1995"
+                },
+                {
+                    "count": 1,
+                    "value": "1842"
+                },
+                {
+                    "count": 1,
+                    "value": "1843"
+                },
+                {
+                    "count": 1,
+                    "value": "1844"
+                },
+                {
+                    "count": 1,
+                    "value": "1844 - 2013"
+                },
+                {
+                    "count": 1,
+                    "value": "1844 - 2015"
+                },
+                {
+                    "count": 1,
+                    "value": "1845"
+                },
+                {
+                    "count": 1,
+                    "value": "1845 - 1879"
+                },
+                {
+                    "count": 1,
+                    "value": "1845 - 1883"
+                },
+                {
+                    "count": 1,
+                    "value": "1845 - 1901"
+                },
+                {
+                    "count": 1,
+                    "value": "1845 - 1929"
+                }
+            ]
+        }
+    }
+}

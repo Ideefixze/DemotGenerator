@@ -6,10 +6,20 @@ from tqdm import tqdm
 import textloader as tl
 import random
 import time
+import json
 
 current_dir = os.path.dirname(__file__)
 
 img_links = list()
+
+def PolonaReq():
+    URL='https://polona.pl/api/entities/'
+    PARAMS={'query':'slowacki', 'size':'1', 'public':'1'}
+
+    r = requests.get(URL, PARAMS)
+    data = r.json()
+    with open('data.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
 #Uses a POST request to demotmaker.com.pl to generate a demot 
 def GenerateDemot():
@@ -75,5 +85,7 @@ RedditTitles(min(howmany*50,4000))
 for i in range(1, howmany):
     GenerateDemot()
 print("Operation completed!")
+PolonaReq()
+
 
 
