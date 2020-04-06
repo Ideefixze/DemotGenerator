@@ -85,7 +85,10 @@ RedditTitles(min(howmany*50,4000))
 for i in range(1, howmany):
     GenerateDemot()
 print("Operation completed!")
+<<<<<<< HEAD:src/polonareq.py
 PolonaReq()
 
+=======
+>>>>>>> parent of 29cb2d0... Update pyquests.py:src/pyquests.py
 
 
