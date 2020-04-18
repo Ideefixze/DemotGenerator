@@ -12,7 +12,7 @@ current_dir = os.path.dirname(__file__)
 
 img_links = list()
 
-#Uses a POST request to demotmaker.com.pl to generate a demot 
+#Uses a POST request to demotmaker.com.pl to generate a new demot 
 def GenerateDemot():
 
     demot = tl.GetRandomText()
